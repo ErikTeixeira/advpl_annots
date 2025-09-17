@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cods/aula00_conceitos/02_funcao.md",
+                "file": "cods/aula00_conceitos/05_decisao.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_funcao"
+              "title": "05_decisao"
             }
           }
         ]
@@ -169,14 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22ebc45c1210cd71",
+  "active": "9438831fbf4f39f8",
   "lastOpenFiles": [
-    "cods/aula00_conceitos/01_biblioteca.md",
     "cods/aula00_conceitos/00_conceitos.md",
-    "main.md",
-    "cods/ola_mundo.md",
-    "annot/annotations.md",
+    "cods/aula00_conceitos/05_decisao.md",
+    "cods/aula00_conceitos/04_variavel.md",
     "cods/aula00_conceitos/02_funcao.md",
+    "cods/aula00_conceitos/03_parametro.md",
+    "cods/ola_mundo.md",
+    "cods/aula00_conceitos/01_biblioteca.md",
+    "main.md",
+    "annot/annotations.md",
     "cods/aula00_conceitos/01-biblioteca",
     "cods/aula00_conceitos",
     "cods",
