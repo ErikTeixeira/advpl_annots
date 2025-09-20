@@ -16,5 +16,8 @@ _ → sublinhado
 
 ## Exercícios
 [[00_conceitos]]
-[[01_alertas]]
+[[00_alertas]]
+[[00_axCadastro]]
+[[00_telas]]
+
 
