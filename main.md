@@ -15,9 +15,11 @@ _ → sublinhado
 [[ola_mundo]]
 
 ## Exercícios
-[[00_conceitos]]
-[[00_alertas]]
-[[00_axCadastro]]
-[[00_telas]]
-
+1. [[00_conceitos]]
+2. [[00_alertas]]
+3. [[00_axCadastro]]
+4. [[00_telas]]
+5. [[00_execAuto]]
+6. [[00_pontoDeEntrada]]
+7. 
 
