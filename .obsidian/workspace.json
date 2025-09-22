@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cods/05_pontoDeEntrada/00_pontoDeEntrada.md",
-                "mode": "source",
+                "file": "cods/07_browse/07_legend.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_pontoDeEntrada"
+              "title": "07_legend"
             }
           }
         ]
@@ -171,41 +171,41 @@
   },
   "active": "15d281e9c6ddd79a",
   "lastOpenFiles": [
-    "cods/05_pontoDeEntrada/03_sdulogin.md",
-    "cods/05_pontoDeEntrada/00_pontoDeEntrada.md",
+    "cods/07_browse/00_browse.md",
+    "cods/07_browse/07_legend.md",
     "main.md",
+    "cods/07_browse/06_fwmbr.md",
+    "cods/04_execAuto/00_execAuto.md",
     "cods/03_telas/00_telas.md",
     "cods/03_telas/07_enchoice--.md",
     "cods/05_pontoDeEntrada/02_mbrwbtn--.md",
+    "cods/04_execAuto/01_execAuto.md",
+    "cods/02_axCadstro/00_axCadastro.md",
+    "cods/03_telas/01_msDialog.md",
+    "cods/07_browse/05_fwBrw3.md",
+    "cods/07_browse/04_fwBrw2.md",
+    "cods/07_browse/03_fwBrw1.md",
+    "cods/07_browse/02_dlgMod.md",
+    "cods/07_browse/01_brwLegenda.md",
+    "cods/07_browse",
+    "cods/06_pergunte/02_paramBox.md",
+    "cods/06_pergunte/00_pergunte.md",
+    "cods/06_pergunte/01_pergunte.md",
+    "cods/05_pontoDeEntrada/00_pontoDeEntrada.md",
+    "cods/06_pergunte",
+    "cods/05_pontoDeEntrada/04_vldmoeda.md",
+    "cods/05_pontoDeEntrada/03_sdulogin.md",
     "cods/05_pontoDeEntrada/01_afterLogin.md",
     "cods/05_pontoDeEntrada",
-    "cods/04_execAuto/01_execAuto.md",
-    "cods/04_execAuto/00_execAuto.md",
     "cods/04_execAuto",
     "cods/03_telas/04_msGet.md",
     "cods/03_telas/13_fwIputBox.md",
     "cods/03_telas/12_folder.md",
-    "cods/03_telas/11_radio.md",
-    "cods/03_telas/10_tBar.md",
-    "cods/03_telas/09_checkBox.md",
-    "cods/03_telas/08_enchBar.md",
-    "cods/03_telas/06_button.md",
-    "cods/03_telas/05_multLine.md",
-    "cods/03_telas/03_get.md",
-    "cods/03_telas/02_say.md",
-    "cods/03_telas/01_msDialog.md",
-    "cods/01_alertas/01_alertas.md",
-    "cods/01_alertas/00_alertas.md",
-    "cods/02_axCadstro/00_axCadastro.md",
-    "cods/02_axCadstro/01_axCadSa1.md",
     "cods/03_telas",
     "cods/02_axCadstro",
     "cods/curso",
-    "cods/01_alertas/10_showHelpDlg.md",
     "cods/01_alertas",
     "cods/aula00_conceitos/01-biblioteca",
-    "cods/00_conceitos",
-    "cods",
-    "annot"
+    "cods/00_conceitos"
   ]
 }
