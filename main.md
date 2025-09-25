@@ -15,12 +15,13 @@ _ → sublinhado
 [[ola_mundo]]
 
 ## Exercícios
-1. [[00_conceitos]]
-2. [[00_alertas]]
-3. [[00_axCadastro]] 
-4. [[00_telas]] — enchoice (n funciona)
-5. [[00_execAuto]] — da erro mais vai
-6. [[00_pontoDeEntrada]] — rodei de outra maneira
-7. [[00_pergunte]]
-8. [[00_browse]]
-
+ [[00_conceitos]]
+ 
+1. [[00_alertas]]
+2. [[00_axCadastro]] 
+3. [[00_telas]] — enchoice (n funciona)
+4. [[00_execAuto]] — da erro mais vai
+5. [[00_pontoDeEntrada]] — rodei de outra maneira
+6. [[00_pergunte]]
+7. [[00_browse]]
+8. [[00_relatorios]]

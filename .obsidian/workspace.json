@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cods/07_browse/10_markRefr.md",
+                "file": "cods/08_relatorios/01_inform.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10_markRefr"
+              "title": "01_inform"
             }
           }
         ]
@@ -171,13 +171,21 @@
   },
   "active": "15d281e9c6ddd79a",
   "lastOpenFiles": [
+    "cods/08_relatorios/00_relatorios.md",
+    "cods/08_relatorios/01_inform.md",
+    "cods/08_relatorios",
+    "main.md",
+    "cods/07_browse/15_twBrowse.md",
     "cods/07_browse/00_browse.md",
+    "cods/07_browse/14_msExplore.md",
+    "cods/07_browse/13_mrkBrw3.md",
+    "cods/07_browse/12_mrkBrw2.md",
+    "cods/07_browse/11_mrkBrw1.md",
     "cods/07_browse/10_markRefr.md",
     "cods/07_browse/09_markPar.md",
     "cods/07_browse/08_markLeg.md",
     "cods/07_browse/07_legend.md",
     "cods/07_browse/06_fwmbr.md",
-    "main.md",
     "cods/04_execAuto/00_execAuto.md",
     "cods/03_telas/00_telas.md",
     "cods/03_telas/07_enchoice--.md",
@@ -191,21 +199,13 @@
     "cods/07_browse/02_dlgMod.md",
     "cods/07_browse/01_brwLegenda.md",
     "cods/07_browse",
-    "cods/06_pergunte/02_paramBox.md",
-    "cods/06_pergunte/00_pergunte.md",
-    "cods/06_pergunte/01_pergunte.md",
-    "cods/05_pontoDeEntrada/00_pontoDeEntrada.md",
     "cods/06_pergunte",
-    "cods/05_pontoDeEntrada/04_vldmoeda.md",
-    "cods/05_pontoDeEntrada/03_sdulogin.md",
-    "cods/05_pontoDeEntrada/01_afterLogin.md",
     "cods/05_pontoDeEntrada",
     "cods/04_execAuto",
     "cods/03_telas",
     "cods/02_axCadstro",
     "cods/curso",
     "cods/01_alertas",
-    "cods/aula00_conceitos/01-biblioteca",
-    "cods/00_conceitos"
+    "cods/aula00_conceitos/01-biblioteca"
   ]
 }
