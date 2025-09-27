@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cods/08_relatorios/01_inform.md",
-                "mode": "preview",
+                "file": "cods/08_relatorios/02_relatorio_dbf.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_inform"
+              "title": "02_relatorio_dbf"
             }
           }
         ]
@@ -171,8 +171,13 @@
   },
   "active": "15d281e9c6ddd79a",
   "lastOpenFiles": [
-    "cods/08_relatorios/00_relatorios.md",
     "cods/08_relatorios/01_inform.md",
+    "cods/08_relatorios/00_relatorios.md",
+    "cods/08_relatorios/02_relatorio_dbf.md",
+    "cods/08_relatorios/03_relatorio_sql.md",
+    "cods/08_relatorios/04_tmsPrinter.md",
+    "cods/08_relatorios/05_tReport1.md",
+    "cods/08_relatorios/06_tReport2.md",
     "cods/08_relatorios",
     "main.md",
     "cods/07_browse/15_twBrowse.md",
@@ -193,11 +198,6 @@
     "cods/04_execAuto/01_execAuto.md",
     "cods/02_axCadstro/00_axCadastro.md",
     "cods/03_telas/01_msDialog.md",
-    "cods/07_browse/05_fwBrw3.md",
-    "cods/07_browse/04_fwBrw2.md",
-    "cods/07_browse/03_fwBrw1.md",
-    "cods/07_browse/02_dlgMod.md",
-    "cods/07_browse/01_brwLegenda.md",
     "cods/07_browse",
     "cods/06_pergunte",
     "cods/05_pontoDeEntrada",
