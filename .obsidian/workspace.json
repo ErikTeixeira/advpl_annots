@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cods/08_relatorios/02_relatorio_dbf.md",
-                "mode": "source",
+                "file": "cods/08_relatorios/03_relatorio_sql.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_relatorio_dbf"
+              "title": "03_relatorio_sql"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "15d281e9c6ddd79a",
   "lastOpenFiles": [
-    "cods/08_relatorios/01_inform.md",
     "cods/08_relatorios/00_relatorios.md",
+    "cods/08_relatorios/01_inform.md",
     "cods/08_relatorios/02_relatorio_dbf.md",
     "cods/08_relatorios/03_relatorio_sql.md",
     "cods/08_relatorios/04_tmsPrinter.md",
