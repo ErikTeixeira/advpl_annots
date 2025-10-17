@@ -1,0 +1,22 @@
+Introdução 
+==========
+
+Os filtros são uma poderosa ferramenta. Sendo muito uteis para selecionar dados para analise, ainda em tela, sobre as informações registradas no sistema.
+
+Um "filtro" permite definir quais registros devem ser apresentados, para em seguida gerar relatórios, em acordo com a necessidade. É muito útil, quando se deseja limitar a visualização de um usuário. 
+
+Algumas regras:
+- Os filtros estão disponíveis na maioria das rotinas
+- Os filtros podem ser fixos ou variáveis
+- Os filtros podem ser salvos na rotina para uso futuro
+- Os filtros também podem ser criados atraves de expressões ADVPL
+- Podem ser salvos para um ou vários usuarios, só depende da parametrização no configurador
+- Podem ser salvos por filial, só depende da parametrização no configurador
+
+Veja o(s) video(s) a seguir:
+
+Criando filtros no Protheus:
+https://www.youtube.com/watch?v=F_9YVWWNmpA
+
+
+.FIM

@@ -1,0 +1,24 @@
+Desafio de funcionalidade
+=========================
+
+Objetivo.: - Popular a base local com dados
+Meta.....: - Adquirir conhecimento funcional sobre o Protheus
+
+Tarefa 1:
+- Criar 50 Pedidos de Venda,  para 50 Clientes     diferentes, para 50 produtos diferentes
+- Criar 50 Pedidos de Compra, para 50 Fornecedores diferentes, para 50 produtos diferentes
+
+Tarefa 2:
+- Criar 50 titulos a receber, no valor de R$ 1.000,00 cada, para 10 Clientes diferentes.
+- Criar 50 titulos a pagar,   no valor de R$ 1.000,00 cada, para 10 Fornecedores diferentes.
+
+Tarefa 3:
+- Baixar parcial 5 titulos a Receber, 5 baixas de R$ 200,00 cada
+- Baixar parcial 5 titulos a Pagar,   5 baixas de R$ 200,00 cada
+
+Tarefa 4:
+- Estornar 3 baixas a Receber, no valor de R$ 200,00 cada
+- Estornar 3 baixas a Pagar,   no valor de R$ 200,00 cada
+
+
+.FIM

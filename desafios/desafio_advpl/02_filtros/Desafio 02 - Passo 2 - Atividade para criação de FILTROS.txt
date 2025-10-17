@@ -1,0 +1,31 @@
+Desafio de Funcionalidade
+=========================
+
+Objetivo.: - Conhecer a funcionalidade dos filtros
+Meta.....: - Adquirir conhecimento funcional sobre o Protheus
+
+Tarefa 1:
+- Criar um filtro no cadastro de Cliente: CLIENTES DO ESTADO DE "SP"
+  - FILTRO FIXO....: CLIENTES DO ESTADO DE "MG"
+  - FILTRO VARIAVEL: CLIENTES DO ESTADO DE ????? 
+
+Tarefa 2:
+- Criar um filtro no cadastro de Fornecedor: 
+  - FILTRO FIXO....: FORNECEDORES DO ESTADO DE "MG"
+  - FILTRO VARIAVEL: FORNECEDORES DO ESTADO DE ????? 
+
+Tarefa 3:
+- Criar um filtro no Titulos a Pagar
+  - FILTRO FIXO....: TITULOS COM SALDO MAIOR QUE R$ 100,00 
+  - FILTRO VARIAVEL: TITULOS COM SALDO MAIOR QUE ????? 
+
+Tarefa 4:
+- Criar um filtro no Titulos a Receber
+  - FILTRO FIXO....: TITULOS VENCIMENTO ACIMA DE 19/10/2020 
+  - FILTRO VARIAVEL: TITULOS VENCIMENTO ACIMA DE ?????  
+
+Tarefa 5:
+- Faça com que o filtro fixo da tarefa 4 seja executado ao abrir onde foi criado 
+
+
+.FIM

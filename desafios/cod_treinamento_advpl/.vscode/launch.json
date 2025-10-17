@@ -1,0 +1,127 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "TOTVS Language Debug",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\TOTVS\\Protheus\\BIN\\SmartClient\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true,
+			"extendFeatures": {
+				"charDetails": false
+			}
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "U_TIBXFUN"
+		},
+		{
+			"label": "U_IncluiCliente"
+		},
+		{
+			"label": "u_CADCLI10"
+		},
+		{
+			"label": "U_IncluiDezClientes"
+		},
+		{
+			"label": "U_buttonEx"
+		},
+		{
+			"label": "U_tPanel1"
+		},
+		{
+			"label": "U_painelEx"
+		},
+		{
+			"label": "U_folderEx"
+		},
+		{
+			"label": "U_ench2"
+		},
+		{
+			"label": "U_MinhaTelaEnchoice"
+		},
+		{
+			"label": "U_consPadrao"
+		},
+		{
+			"label": "u_fConPad1"
+		},
+		{
+			"label": "u_comboBoxEx"
+		},
+		{
+			"label": "u_dataEx"
+		},
+		{
+			"label": "u_tMultGetEx"
+		},
+		{
+			"label": "u_tMultiGetEx"
+		},
+		{
+			"label": "u_checkBoxEx"
+		},
+		{
+			"label": "u_radioEx"
+		},
+		{
+			"label": "u_msBrGetDBase"
+		},
+		{
+			"label": "u_msBrGetDBaseSA1"
+		},
+		{
+			"label": "u_twBrowseEx"
+		},
+		{
+			"label": "u_testee"
+		},
+		{
+			"label": "u_testea"
+		},
+		{
+			"label": "u_twBrowseLegEx"
+		},
+		{
+			"label": "u_twBrowseCheckEx"
+		},
+		{
+			"label": "u_twBrowseCheckLegEx"
+		},
+		{
+			"label": "u_axCadastroEx"
+		},
+		{
+			"label": "u_enchoiceEx"
+		},
+		{
+			"label": "u_MyCustomScreen"
+		},
+		{
+			"label": "u_modeloUm"
+		},
+		{
+			"label": "u_modeloDois"
+		},
+		{
+			"label": "u_funcPadraoEx"
+		},
+		{
+			"label": "u_twLegendaEx"
+		},
+		{
+			"label": "u_twCheckBoxEx"
+		},
+		{
+			"label": "u_twChkLeg"
+		}
+	],
+	"lastProgramExecuted": "u_modeloDois",
+	"lastProgramArguments": []
+}

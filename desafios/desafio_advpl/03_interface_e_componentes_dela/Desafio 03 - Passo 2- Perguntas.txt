@@ -1,0 +1,105 @@
+Avaliação sobre INTERFACE:
+==========================
+
+ATENÇÃO: - Este questionario pode conter multiplas escolhas
+
+Assinale apenas a(s) alternativa(s) correta(s):
+
+01. O que é uma INTERFACE ?
+[ ] É uma rotina sem interação humana
+[x] É uma tela de interação com o usuario do sistema
+[ ] É um componente não visual
+[ ] É uma função de exclusão de registros
+
+02. O que é um componente visual ?
+[ ] É um comando que emite sons ao usuario
+[x] É um comando que mostra imagens na tela
+[ ] É uma função que gera relatório
+[ ] É uma função para agendar rotina automática
+
+03. De exemplos de COMPONENTES VISUAIS ?
+[ ] AScan, Treport e FwPrinter 
+[x] Alert, Checkbox e Button
+[ ] DBCloseArea,DBSeek e DBSelectArea
+[ ] FClose, FCreate  e FT_FUse 
+
+04. O que é um ENCHOICE ?
+[ ] É uma interface utilizada em relatorios, que disponibiliza componentes para impressão, baseado no Dicionário SX1 
+[ ] É uma interface utilizada em relatorios, que disponibiliza componentes para impressão, baseado no Dicionário SX3 
+[x] É uma interface utilizada em cadastros, que disponibiliza componentes para edição, baseado no Dicionário SX3 
+[ ] É uma interface utilizada em relatorios, que disponibiliza componentes para edição, baseado no Dicionário SX2 
+
+05. O que é uma GRID ?
+[ ] É um relatório composta de cabeçalho e multiplas linhas de itens
+[ ] É um componente não visual compostas de cabeçalho e multiplas linhas de itens
+[ ] É uma interface para ser executada em job
+[x] É uma interface composta de cabeçalho e multiplas linhas de itens
+
+06. Dê exemplos de funções de GRID não digitáveis:
+[ ] MSGETDB
+[x] TWBROWSE
+[x] MAWNDBROWSE 
+[x] MBROWSE
+
+07. Dê exemplos de funções de GRID digitáveis:
+[x] MSGETDB
+[x] MSGETDADOS 
+[x] MSNEWGETDADOS()
+[ ] MSDIALOG 
+
+08. Qual a função utilizada para criar uma INTERFACE ?
+[ ] MSGETDB
+[ ] MSGETDADOS 
+[ ] MSNEWGETDADOS()
+[x] MSDIALOG 
+
+09. Dê exemplos de componentes visuais que criam botões em uma INTERFACE ?
+[ ] ENCHOICEBAR
+[x] BUTTON
+[x] TBUTTON
+[ ] MSDIALOG 
+
+10. Dê exemplo de componentes visuais que mostram informação em uma INTERFACE ?
+[ ] MSGETDB
+[x] SAY ou TSAY
+[ ] BUTTON
+[ ] TBUTTON
+
+11. Dê exemplo de componentes visuais que solicitam informações em uma INTERFACE ?
+[x] GET
+[x] MSGET 
+[x] TGET
+[ ] TSAY
+
+12. Dê exemplo de componentes visuais tipo LISTA DE OPÇÕES em uma INTERFACE ?
+[x] TComboBox 
+[x] ComboBox
+[ ] MSGET 
+[ ] TGET
+
+13. Dê exemplo de componentes visuais tipo MARCA/DESMARCA em uma INTERFACE ?
+[x] TCheckBox 
+[x] CheckBox
+[ ] TComboBox 
+[ ] ComboBox
+
+14. Dê exemplo de componentes visuais tipo TEXTO EDITÁVEL em uma INTERFACE ?
+[ ] CheckBox
+[x] TMultGet
+[ ] TCheckBox 
+[ ] TComboBox 
+
+15. Em uma rotina de interface, o que é uma carga de dados ?
+[x] Buscar na tabela de origem de dados, quais as informações pré-existentes
+[ ] Buscar na tabela de parametros, quais as informações definidas
+[ ] Buscar em um arquivo em disco, quais as informações definidas
+[ ] Buscar em um WebService, quais as informações definidas
+
+16. Em uma rotina de interface, o que é uma validação ?
+[ ] Não permitir a digitação de dados corretos
+[ ] Permitir a digitação de dados corretos
+[ ] Não permitir a escolha de dados corretos
+[x] Permitir a escolha de dados corretos
+
+
+.FIM
