@@ -1,0 +1,13 @@
+Desafio de Desenvolvimento
+==========================
+
+Atividade: Envio de e-mail
+Objetivo.: - Faça seu ambiente local enviar um relatório de clientes para seu e-mail
+Meta.....: - Configurar o ambiente interno para receber e-mail
+
+Pré requisito:
+==============
+Ter uma conta de e-mail configurada no sistema
+
+
+.FIM

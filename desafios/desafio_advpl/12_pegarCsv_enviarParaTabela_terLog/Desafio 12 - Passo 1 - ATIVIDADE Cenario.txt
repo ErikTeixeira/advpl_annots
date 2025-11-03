@@ -1,0 +1,29 @@
+Desafio de Desenvolvimento
+==========================
+
+Atividade: Manipulação de arquivo texto
+Objetivo: - Avaliar conhecimentos de manipulação de arquivo texto
+Meta....: - Salvar dados de origem de uma planilha no Protheus
+
+Pré requisito:
+==============
+Salvar cada procedimento num arquivo de LOG ( Comando: FCreate )
+   - Se der certo, informe no log que incluiu com sucesso;
+   - Se der errado, informe no log que ocorreu erro na inclusão do registro;
+   - Pasta de destino "C:\TEMP\LOG" ( Comando: MAKEDIR )"
+
+
+Detalhe:
+========
+
+1. Abrir um arquivo CSV da uma pasta "C:\TEMP"; (Comando: getfile)  
+
+2. Processe as informações deste arquivo (cadastro de cliente) ( Comando: FT_FUse )
+
+3. Use as informações deste arquivo para alimentar o cadastro de Clientes ( ExecAuto MATA030 )
+
+4. O arquivo processado (CSV) deve ser movido para a pasta "C:\TEMP\PROCESSADO" (Comando: __CopyFile )
+
+5. O arquivo de LOG e Erro do EXECAUTO devem ser salvos na pasta "C:\TEMP\LOG"
+
+.FIM

@@ -1,0 +1,15 @@
+Desafio de Suporte Técnico
+==========================
+
+Atividade: COPIAR e RESTAURAR BACKUP
+Objetivo.: - Dar suporte a tabelas modelo 3
+Meta.....: - Restaurar o Protheus ao seu estado original
+
+Utilizando do APSDU:
+- Copie as tabelas de Pedidos de Vendas para um arquivo de backup;
+- Drop as tabelas de Pedidos de Vendas;
+- Recrie as tabelas de Pedidos de VendaS;
+- Recupere o backup criado;
+- Enviar video de Evidência de Teste (EV).
+
+.Fim

@@ -1,0 +1,34 @@
+Procedimento para recriar tabela pelo APSDU:SIGAMDI
+============================================
+
+BACKUP DE TABELA
+- Entre no APSDU.
+- Clique em Arquivo/Abrir.
+- Em Driver, selecione Top Connect e clique em OK duas vezes.
+- Em Procurar, digite as iniciais da tabela, ou o nome dela, e aperte a tecla TAB. A tabela irá aparecer na lista. Selecione a tabela referente a empresa desejada, e clique em OK.
+- Ao aparecer a tabela aberta, clique em Utilitário / Copiar Para.
+- Selecione o caminho onde irá salvar o arquivo, e em Driver mantenha DBF, e clique em OK.
+- Ao terminar, confirme a criação do arquivo .DBF na pasta selecionada.
+
+
+DROP DE TABELA
+- Entre no APSDU.
+- Clique em Arquivo/Abrir.
+- Em Driver, selecione Top Connect e clique em OK duas vezes.
+- Em Procurar, digite as iniciais da tabela, ou o nome dela, e aperte a tecla TAB. A tabela irá aparecer na lista. Selecione a tabela referente a empresa desejada, e clique em OK.
+- Ao aparecer a tabela aberta, clique em Utilitário / Drop Table.
+- Confirme a exclusão da tabela clicando em Sim.
+
+
+APPEND DE TABELA
+- Após fazer backup e drop da tabela, acesse a rotina que cria essa tabela, para que ela seja criada no padrão.
+- Saia do módulo, e entre no APSDU.
+- Clique em Arquivo/Abrir.
+- Em Driver, selecione Top Connect e clique em OK duas vezes.
+- Em Procurar, digite as iniciais da tabela, ou o nome dela, e aperte a tecla TAB. A tabela irá aparecer na lista. Selecione a tabela referente a empresa desejada, e clique em OK.
+- Ao aparecer a tabela, clique em Utilitário / Append from.
+- Em Driver, mantenha como DBF.
+- Em Caminho/Arquivo, selecione a pasta onde foi feito o backup.
+- Clique em OK.
+
+.FIM

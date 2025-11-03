@@ -1,0 +1,41 @@
+Desafio de Desenvolvimento
+==========================
+
+Atividade: Criar várias situações de ERRORLOG
+Objetivo.: - Faça seu ambiente local gerar um ERROLOG para os erros mais comuns
+Meta.....: - Conhecer os erros mais comuns em programação e para solucioná-los
+
+Pré requisito:
+==============
+- Fazer a leitura do arquivo "Análise de Eventos_Errolog_Resumo.pdf"
+
+Atividade  1 - Criar o erro "variable does not exist"
+
+Atividade  2 - Criar o erro "type mismatch"
+
+Atividade  3 - Criar o erro "variable is not array"
+
+Atividade  4 - Criar o erro "array out of bounds"
+
+Atividade  5 - Criar o erro "invalid field name"
+
+Atividade  6 - Criar o erro "Alias does not exist"
+
+Atividade  7 - Criar o erro "argument error"
+
+Atividade  8 - Criar o erro "Update error - File is in EOF"
+
+Atividade  9 - Criar o erro "Update error - lock required"
+
+Atividade 10 - Criar o erro "Protheus Work area table full (Max= 1024)"
+
+Atividade 11 - Criar o erro "DB error (Insert): -37"
+
+Atividade 12 - Criar o erro "DB error (Update): -29 File"
+
+Atividade 13 - Criar o erro "invalid typecast"
+
+Atividade 14 - Criar o erro "Data width error"
+
+
+.FIM

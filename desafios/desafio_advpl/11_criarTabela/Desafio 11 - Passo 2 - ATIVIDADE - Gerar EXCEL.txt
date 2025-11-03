@@ -1,0 +1,10 @@
+Tarefa: 
+=======
+
+Criar e abrir uma tabela excel
+
+1. Criar uma planilha EXCEL com base em um ARRAY MULTIDIMENCIONAL
+
+2. Abrir a planilha EXCEL em tela 
+
+.FIM

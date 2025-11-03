@@ -1,0 +1,30 @@
+Desafio do Desenvolvimento
+==========================
+
+Atividade: Customização de Clientes
+Objetivo.: Conhecer os passos de uma customização
+Meta.....: Construir uma tela de atendimento
+Negócios.: Escolha apenas um dos negocios a seguir:
+				- Salão de Cabelereiro
+				- Coleta de Lixo
+				- Material Elétrico
+				- Conserto de Notebook
+				- Academia de Musculação
+				- Material Escolar (Bazar)
+
+Cenario:
+
+Faça uma interface para atendimento da venda de um produto ou serviço em acordo com o négocio do cliente, construindo os seguintes passos:
+
+	1-Reunião de discussão (Entendimento do Negócio)
+	2-Fluxograma de atendimento
+	3-Reunião de apresentação
+	4-Definição as necessidades do projeto
+		Verificação das tabelas e indices a serem utilizadas (customizada se necessário)
+	5-Desenvolvimento em ADVPL
+	6-Evidência de Teste
+		Crie um roteiro em TXT
+		Grave uma apresentação seguindo o roteiro
+	7-Documento da GMUD
+
+.FIM

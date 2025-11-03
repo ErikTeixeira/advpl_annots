@@ -1,0 +1,26 @@
+Instruções conclusão do AMBIENTE P12.1.33
+=========================================
+
+Apos o sistema estar ativo, o Protheus se auto-constroi, isso quer dizer que no primeiro acesso o sistema irá criar várias tabelas automaticamente.
+
+Mas você terá que fazer algumas escolhas para ajudá-lo neste trabalho !
+
+Entenda os proximos passos:
+
+01. Abrir o SmartClient
+	- Clique no atalho "SmartClient - P12.1.33" 
+	- No primeiro acesso, escolha o idioma BRASIL sempre que o Protheus perguntar
+
+02. Escolher o modulo "06-Financeiro"
+	- Abra o cadastro de cliente para completar algumas configurações internas ( Acesse o caminho: Atualizações > Cadastros > Cliente )
+
+03. Entrar no cadastro de cliente
+	- Dependendo da configuração do computador, pode demorar! Para ter certeza que não travou o sistema, verifique se a barra de progresso está se mexendo e se no console do APPSERVER apareceu a mensagem "Rebuild indexes". 
+	
+	Em computadores de alto desempenho irá finalizar em poucos minutos, com baixo desempenho pode demorar muito mais de 10 minutos. 
+	
+	Se seisso ocorrer, você terá problemas futuros, porque esta relacionado diretamente a sua produtividade como desenvolvimento ADVPL, revise as configurações do seu computador ! 
+
+	Para mais informações verifique o arquivo "Configuração minima do computador.txt" na pasta principal 
+	
+.FIM

@@ -1,0 +1,65 @@
+Desafio de Desenvolvimento
+==========================
+
+Atividade: Integração com CSV
+Objetivo.: - Conhecimento de manipulação de arquivos CSV
+Meta.....: - Gerar documentação e entendimento da atividade
+
+Cenario:
+
+O cliente está implantando o Protheus, e deseja aproveitar os cadastros do sistema anterior.
+
+O sistema antigo permite exportar os cadastros para EXCEL, e você precisa criar uma rotina 
+para importar os mesmos cadastros para o Protheus.
+
+Criar uma rotina que importe a planilha de clientes
+
+Dica: 
+
+- Use os arquivos a seguir:
+
+>> Treinamento\Fase-2\Aula 02 - AxCadastro\CargaSA1.prw
+>> Treinamento\Fase-2\Aula 02 - AxCadastro\CargaSA1.csv
+
+Exercício:
+==========
+
+Tarefa principal:
+=================
+- Especificação:
+  + Colocar a tela no menu de Faturamento no caminho a seguir:
+    * Faturamento > Atualização > Especifico > Importar Planilha
+    * Função de Usuário >> CargaSA1
+  + Selecionar a opção
+  + Importar o arquivo CargaSA1.CSV no cadastro de cliente
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Tarefa complementar:
+====================
+1. Documento de Especificação
+  + Documento: - Crie um documento Word (simples) com as informações a seguir:
+  + Objetivo.: - Mostrar a equipe entendimento do cenario
+  + Passos...: - Adicionar a rotina no menu
+               - Executar a rotina
+               - Achar o arquivo CargaSA1.csv
+               - Abrir e salvar na tabela SA1-Clientes
+
+2. Documentação Operacional:
+  + Documento: - Crie um documento Word (simples) com os Print de tela com todo processo
+  + Objetivo.: - Mostrar ao usuario como se faz
+  + Passos...: - Achar a opção no menu
+               - Pesquisar o arquivo CargaSA1.csv
+               - Ler e salvar na tabela SA1-Clientes
+               - Mostra os registros na SA1-Clientes
+
+3. Documentação Técnica:
+  + Documento: - Crie um documento Word que mostre os campos do CSV que estão sendo importados na SA1
+  + Objetivo.: - Segurança (Lembrar o departamento TI como e para que foi desenvolvido)
+  + Passos...: - Descrever o motivo da customização
+               - Mostrar nome da função (CarcaSa1.PRW)
+               - Mostrar a planilha CargaSA1.csv
+               - Mostrar os campos do arquivo SA1-Clientes
+
+.FIM
+

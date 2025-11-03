@@ -1,0 +1,186 @@
+Avaliação sobre CONFIGURADOR:
+=============================
+
+Fonte: 
+https://tdn.totvs.com/display/public/PROT/Framework+-+Protheus+12
+
+ATENÇÃO: - Este questionario pode conter multiplas escolhas
+
+Assinale apenas a(s) alternativa(s) correta(s):
+
+01. No configurador, qual o caminho de acesso a configuração das TABELAS ?
+[x] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados
+[x] Base de Dados > Dicionários  Arquivos
+[ ] Ambiente > Dicionários > Bases de Dados > Dicionários de Dados
+[ ] Ambiente > Dicionários  Arquivos
+
+02. Qual o nome do alias da tabela do dicionario que contem os INDICES das tabelas ?
+[ ] SX1
+[ ] SX2
+[ ] SX7
+[x] SIX
+
+03. No configurador, qual o caminho de acesso a configuração dos INDICES ?
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Campos
+[x] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Indices
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Pastas
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Tabelas
+
+04. Qual o nome do alias da tabela do dicionario que contem as informações dos CAMPOS das tabelas e permite configurar as regras de negócio ?
+[ ] SX1
+[ ] SX2
+[x] SX3
+[ ] SX7
+
+05. No configurador, qual o caminho de acesso a configuração dos CAMPOS das tabelas e as regras de negócio ?
+[x] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Campos
+[ ] Base de Dados > Dicionários > Campos
+[ ] Base de Dados > Dicionários > Indices
+[ ] Base de Dados > Dicionários > Arquivos
+
+06. Qual o nome do alias da tabela do dicionario que contem as PASTAS das tabelas ?
+[ ] SX2
+[ ] SX3
+[x] SXA
+[ ] SX4
+
+07. No configurador, qual o caminho de acesso a configuração das PASTAS das tabelas ?
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Tabelas
+[x] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Pastas
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Indices
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Consulta Padrão
+
+08. Qual o nome do alias da tabela do dicionario que contem as TABELAS GENERICAS ?
+[ ] SX2
+[ ] SX4
+[x] SX5
+[ ] SX6
+
+09. O que é uma CONSULTA PADRÃO ?
+[ ] Um campo dentro da busca da tabela
+[ ] Uma sub-consulta a tabelas relacionadas ao campo posicionado
+[x] Uma consulta acessível através da LUPA ou da tecla F3
+[ ] Um filtro dentro da busca da tabela
+
+10. Qual o nome do alias da tabela do dicionario que contem as CONSULTA PADRÃO do sistema ?
+[ ] SX2
+[ ] SX4
+[ ] SXA
+[x] SXB
+
+11. No configurador, qual o caminho de acesso a configuração da CONSULTA PADRÃO ?
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Tabelas
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Pastas
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Indices
+[x] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Consulta Padrão
+
+12. O que é um PARAMETRO ?
+[ ] É um manual de instruções do programa
+[x] É uma forma de direcionar as ações do programa
+[ ] É uma pergunta dentro de uma rotina do programa
+[ ] É uma resposta dentro de uma rotina do programa
+
+13. No configurador, qual o caminho de acesso a configuração de PARAMETROS do sistema ?
+[x] Ambiente > Cadastros > Parametros
+[ ] Ambiente > Cadastros > Indices
+[x] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Parametros
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Pastas
+
+14. Qual o nome do alias da tabela do dicionario que contem os PARAMETROS do sistema ?
+[ ] SX2
+[ ] SX4
+[x] SX6
+[ ] SXA
+
+15. O que é um MENU ?
+[ ] Uma forma de acessar o parametro do sistema
+[ ] Uma forma de acessar uma tabela
+[x] Uma forma de acessar uma rotina no sistema
+[ ] Uma forma de acessar uma consulta SQL
+
+16. No configurador, qual o caminho de acesso a configuração dos MENUS do sistema ?
+[ ] Ambiente > Dicionários  Arquivos
+[ ] Ambiente > Cadastros > Arquivos
+[x] Ambiente > Cadastros > Menus
+[ ] Ambiente > Cadastros > Rotinas
+
+17. O que é um GATILHO ?
+[ ] É um disparo de mensagens por e-mail
+[ ] É um alerta de erro
+[x] É um mecanismo que permite preencher ou executar automaticamente alguns campos ou funções com base no preenchimento de um campo específico
+[ ] É um parametro do sistema
+
+18. Qual o nome do alias da tabela do dicionario que contem os GATILHO de campos das tabelas ?
+[ ] SX3
+[ ] SX4
+[ ] SX6
+[x] SX7
+
+19. No configurador, qual o caminho de acesso a configuração dos GATILHO dos campos das tabelas ?
+[ ] Base de Dados > Dicionarios > Consultas Genericas
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Calendários
+[ ] Base de Dados > Dicionarios > Gatilhos
+[x] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Gatilhos
+
+20. O que é uma JOB ?
+[ ] É uma rotina iniciada manualmente
+[x] É a automatização de trabalhos 
+[x] Um processamento iniciado em um ambiente sem uma interface com o usuário 
+[x] Uma execução pre-definido com dia e hora para sua execução
+
+21. No configurador, qual o caminho de acesso a configuração do JOB ?
+[ ] Ambiente > Schedule > Perguntas
+[ ] Ambiente > Schedule > Calendário
+[ ] Ambiente > Schedule > Horários
+[x] Ambiente > Schedule > Schedule
+
+22. Qual o nome do alias da tabela do dicionario que contem as PERGUNTAS do sistema ?
+[x] SX1
+[ ] SX2
+[ ] SX7
+[ ] SXA
+
+23. No configurador, qual o caminho de acesso a configuração das PERGUNTAS ?
+[ ] Ambiente > Dicionários > Bases de Dados > Dicionários de Dados > Perguntas
+[ ] Base de Dados > Dicionários > Perguntas
+[x] Base de Dados > Dicionários > Bases de Dados > Perguntas
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Perguntas
+
+24. Qual o nome do alias da tabela do dicionario que contem a descrição e configuração das tabelas ?
+[ ] SX1
+[x] SX2
+[ ] SX7
+[ ] SXA
+
+25. No configurador, qual o caminho de acesso a configuração das TABELAS GENERICAS ?
+[ ] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Tabelas Genericas
+[x] Base de Dados > Dicionários > Bases de Dados > Dicionários de Dados > Consultas Genericos
+[ ] Ambientes > Cadastros > Tabelas 
+[ ] Ambientes > Cadastros > Consultas
+
+26. Quais o nomes do alias da tabela de dicionario que contem o controle de NUMERAÇÃO do sistema ?
+[ ] SX1 e SX2
+[ ] SX6 e SX7
+[ ] SXA e SXB
+[x] SXE e SXF
+
+27. No configurador, qual o caminho de acesso a configuração das NUMERAÇÃO do sistema ?
+[ ] Base de Dados > Empresas > Acerto de Numeração Automática
+[ ] Ambientes > Cadastros > Tabelas +++
+[ ] Base de Dados > Dicionarios > Gatilhos
+[x] Ambiente > Cadastros > Acerto de Numeração Automática
+
+28. Qual tabela do dicionario que contem as informações sobre as EMPRESAS E FILIAIS do cliente ?
+[ ] SIGAMAT.FIL  
+[x] SIGAMAT.EMP  
+[ ] SIGAMAT.EFIL  
+[ ] SIGAMAT.FILE  
+
+29. No configurador, qual o caminho de acesso a configuração das EMPRESAS E FILIAIS ?
+[ ] Base de Dados > Empresas > Empresas para Empresa
+[ ] Base de Dados > Empresas > Filiais  para Filiais
+[x] Ambiente > Empresas > Empresas para Empresa
+[x] Ambiente > Empresas > Filiais  para Filiais
+
+.FIM
+

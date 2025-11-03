@@ -1,0 +1,86 @@
+Avaliação sobre "Instalação do Protheus":
+=========================================
+
+ATENÇÃO: - Este questionario pode conter multiplas escolhas
+
+Assinale apenas a(s) alternativa(s) correta(s):
+
+01. Qual é o arquivo de configuração do APPSERVER ?
+[ ] SMARTCLIENT.INI
+[ ] DBACESS.INI
+[x] APPSERVER.INI
+[ ] APPSERVER.CFG
+
+02. Qual é o arquivo de configuração do SMARTCLIENT ?
+[ ] APPSERVER.INI
+[x] SMARTCLIENT.INI
+[ ] DBACESS.INI
+[ ] SMARTCLIENT.CFG
+
+03. Qual é o arquivo de configuração do DBACCESS ?
+[ ] APPSERVER.CFG
+[ ] SMARTCLIENT.CFG
+[ ] APPSERVER.INI
+[x] DBACESS.INI
+
+04. Em relação ao arquivo de configuração, o que é uma TAG ?
+[ ] Uma marcação XML
+[ ] Uma marcação ADVPL
+[x] Um inicio de sessão de configuração
+[ ] O fim da sessão de configuração
+
+05. Qual a finalidade da TAG "TDS" no APPSERVER.INI ?
+[ ] Determinar a prioridade de compilação no SMARTCLIENT
+[ ] Determinar a prioridade de compilação no APPSERVER
+[ ] Determinar a prioridade de execução no SMARTCLIENT
+[x] Determinar a prioridade de execução no APPSERVER
+
+06. Qual a finalidade da TAG "DBAccess" no arquivo de configuração do APPSERVER ?
+[x] Determinar os parametros de serviço de conexão do DBACCESS
+[ ] Determinar qual o nome (ALIAS) do banco de dados
+[ ] Determinar o caminho do servidor do banco de dados
+[ ] Determinar qual o drive do banco de dados
+
+07. Qual a finalidade da TAG "Drivers" no arquivo de configuração do APPSERVER ?
+[ ] Definir qual os parametros de conexão com a tabela
+[ ] Definir qual os parametros de conexão com o cliente
+[ ] Definir quais as possíveis conexão com o servidor de aplicação
+[x] Definir qual os parametros de conexão com o servidor de banco de dados
+
+08. Qual a finalidade da TAG "TCP" no arquivo de configuração do APPSERVER ?
+[ ] Definir qual os parametros de conexão com a tabela
+[ ] Definir qual os parametros de conexão com o cliente
+[ ] Definir qual os parametros de conexão com o servidor de banco de dados
+[x] Definir qual os parametros de conexão com o servidor de aplicação
+
+09. Qual a finalidade da TAG "Service" no arquivo de configuração do APPSERVER ?
+[ ] Definir qual será o nome do serviço SMARTCLIENT ao instalar no Windows
+[x] Definir qual será o nome do serviço APPSERVER ao instalar no Windows
+[ ] Definir qual será o nome do serviço DBACCESS ao instalar no Windows
+[ ] Definir qual será o nome do serviço DBMONITOR ao instalar no Windows
+
+10. Qual a finalidade da TAG "General" no arquivo de configuração do APPSERVER ?
+[ ] Definir quais os parametros gerais do SMARTCLIENT
+[ ] Definir quais os parametros gerais do DBACCESS
+[x] Definir quais os parametros gerais do APPSERVER
+[ ] Definir quais os parametros gerais do TOPCONNECT
+
+11. Qual a finalidade da TAG "LICENSESERVER" no arquivo de configuração do APPSERVER ?
+[ ] Definir quais os parametros do TOPCONNECT
+[ ] Definir quais os parametros do APPSERVER
+[ ] Definir se o APPSERVER necessita do servidor de licenças
+[x] Definir o endereço e porta do servidor de licenças
+
+12. Qual a finalidade da TAG "LICENSECLIENT" no arquivo de configuração do APPSERVER ?
+[ ] Definir quais os parametros do TOPCONNECT
+[ ] Definir quais os parametros do APPSERVER
+[x] Definir o endereço e porta do servidor de licenças
+[ ] Definir se o APPSERVER necessita do servidor de licenças
+
+13. Qual a finalidade da TAG "CONFIG" no arquivo de configuração do SMARTCLIENT ?
+[ ] Definir quais os parametros de conexão
+[ ] Definir quais os parametros de relatorios
+[ ] Definir quais os parametros de consultas
+[x] Definir quais os parametros de programa iniciais sugeridos
+
+.FIM

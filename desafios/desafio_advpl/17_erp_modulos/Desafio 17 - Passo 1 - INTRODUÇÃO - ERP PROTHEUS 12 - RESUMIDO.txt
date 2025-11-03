@@ -1,0 +1,283 @@
+Introdução
+
+O ERP TOTVS Protheus conta com mais de 80 módulos para facilitar e aumentar a sua capacidade de gerenciamento do seu negócio de forma integrada.
+
+A capacidade desse sistema de reunir e integrar todos os dados da empresa do RH até às finanças, da cadeia de suprimentos até as vendas, ajudando assim na tomada de decisões estratégicas para o negócio, é um diferencial do Protheus.
+
+São mais de 30 mil clientes na base desse ERP, e o software atende a maioria em seus processos padrões. Porem, podemos dizer que o TOTVS Protheus é sinônimo de customização, porque atende as particularidades de cada empresa. 
+
+Atualmente a TOTVS possue varias linhas de Software, além do PROTHEUS, devido a aquisição de outras empresas de software, são elas: DATASUL, RM e LOGIX.
+
+Porém nesta introdução citaremos apenas a linha ERP TOTVS Protheus e seus principais módulos:
+
+*Modulos de Backoffice:*
+- SIGAEST - Estoque e Custos
+- SIGACOM - Compras
+- SIGAFAT - Faturamento
+- SIGAFIS - Fiscal
+- SIGAFIN - Gestão Financeira
+- SIGACTB - Contabilidade Gerencial
+
+*Módulos de Materiais:*
+- SIGAATF - Ativo Fixo
+- SIGAEST - Estoque e Custos
+- SIGACOM - Compras
+- SIGAPCP - Planejamento e Controle de Produção
+
+*Módulos de Controladoria:*
+- SIGAFIN - Gestão Financeira
+- SIGAFIS - Livros Fiscais
+- SIGACTB - Contabilidade Gerencial
+- SIGAATF - Ativo Fixo
+- SIGAPCO - Planejamento e Controle Orçamentário
+
+*Módulos de Obrigações Fiscais*
+- SIGAFIS - Livros Fiscais
+- SIGATAF - TOTVS Automação Fiscal
+
+*Módulos de Logistica:*
+- SIGAWMS - Gestão de Armazenagem
+- SIGAOMS - Gestão de Distribuição
+- SIGAGFE - Gestão de Frete Embarcador
+- SIGATMS - Gestão de Transportes
+- SIGAGFR - Gestão de Frotas
+
+*Módulos de Comercio Exterior:*
+SIGAEEC - Easy Export Control
+SIGAEIC - Easy Import Control 
+
+*Módulos de Gestão de Pessoas:*
+- SIGAGPE - Gestão de Pessoal
+- SIGAPON - Ponto Eletrônico
+- SIGARSP - Recrutamento e Seleção
+- SIGATRM - Treinamento
+- SIGAAPD - Avaliação, Pesquisa e Desempenho
+- SIGACSA - Cargos e Salários
+- SIGATCF - Terminal de consulta do funcionário
+
+*Módulos de Manufaturas*
+- SIGASFC - Chão de Fábrica
+- SIGADPR - Desenvolvedor de Produtos
+- SIGAPCP - Planejamento e Controle de Produção
+- Inclusos também os modulos relacionados a Controle de Qualidade e Manuteção de Ativos
+
+*Modulos de Manutenção de Ativos*
+- SIGAGFR - Gestão de Frotas
+- SIGAMNT - Manutenção de Ativos
+- SIGASGA - Gestão Ambiental 
+
+*Módulos de Controle da Qualidade*
+- SIGAQIE - Inspeção de Entradas
+- SIGAQIP - Inspeção de Processos
+- SIGAQAD - Controle de Auditoria
+- SIGAQMT - Metrologia
+- SIGAQNC - Controle de Não-Conformidades
+- SIGAQDO - Controle de Documentos
+- SIGAPPAP- Processo de Aprovação de Peças de Produção
+
+*Módulos de Controle de Loja*
+SIGAFRT  - Front Loja
+SIGALOJA - Controle de Lojas	
+
+*Módulos de Controle de Saúde*
+SIGAHSP - Gestão Hospitalar
+SIGAPLS - Plano de Saúde
+SIGAMDT - Medicina e Segurança do Trabalho
+
+*Módulos de Serviços*
+- SIGAPEC - Auto Peças
+- SIGATEC - Prestadores de Serviços
+
+Detalhamento dos Módulos
+
+SIGAGPE
+
+SIGAGPE é o módulo Gestão de Pessoal, esse módulo destina-se ao controle das atividades relacionadas a administração de pessoal, tais como: 
+
+- Folha de pagamento, 
+- Tributos incidentes sobre a folha, 
+- Férias, 
+- Rescisões, 
+- Obrigações periódicas dentre outros. 
+
+Para um bom funcionamento desse módulo é imprescindível a alimentação dos setores competentes com informações cadastrais, controle de ponto, dados para tributação do Imposto de Renda, descontos de vale-refeição, vale-transporte, pagamento de salário-família, auxílios previdenciários, período de férias e demais variáveis pertinentes à vida do colaborador na organização.
+
+SIGALOJA
+
+SIGALOJA Módulo Controle de Lojas TOTVS Protheus, para Controle de Lojas proporciona a automatização das rotinas administrativas de lojas. Tenha em mãos:
+
+- Atendimento aos clientes, 
+- Controle da movimentação de estoques, 
+- Caixas, 
+- Comissões de vendas, 
+- Contas a pagar/receber,
+- Orçamento de vendas,
+- Pedido de compra,
+- Sangria e troco,
+- Resumo do dia, entre outros.
+
+SIGAWMS
+
+SIGAWMS Módulo Gestão de Armazenagem TOTVS Protheus para Gestão de Armazenagem. 
+
+WMS é a sigla para Warehouse Management System que em tradução livre significa gerenciamento de armazéns e depósitos, responsável pelo controle de produtos no armazém ou área de armazenamento da empresa.
+
+Esse módulo oferece:
+
+- Recebimento
+- Movimentação
+- Armazenagem ou Estocagem
+- Separação
+- Cross-Docking
+- Carregamento
+- Transferência de Informações
+- Endereçamento
+- Embalagem e Identificação
+- Etiquetagem, precificação, composição, pesagem dentre outros
+
+SIGATMS
+
+O módulo de Gestão de Transportes Protheus é chamado de SIGATMS. TMS é a sigla para Sistema de Gerenciamento de Transporte ou Sistema de Gestão de Transporte e Logística.
+
+Controla, principalmente, todos os processos fiscais e gerenciais envolvidos na operação de transportes, bem como controlar os veículos, motoristas, fretes e viagens da empresa e de terceiros.
+
+O SIGATMS engloba 8 áreas relacionadas ao setor:
+
+- Logística
+- Comercial
+- Gerenciamento de Contratos
+- Operacional
+- Seguro
+- Faturamento
+- Custos
+- Tracking e Relatórios
+
+SIGAPCP
+O ERP Protheus conta com um modulo de Planejamento e Controle da Produção, o SIGAPCP.
+
+Esse módulo melhora a coordenação da produção otimizando a  produção e o fluxo de material, cálculo de custos, informações em tempo real integrando fornecedores, recebimento e manufatura.
+
+Ele integra e racionaliza os processos de:
+
+- vendas da área comercial,
+- nível de estoque atual (estoque inicial),
+- nível desejável de estoque futuro,
+- quantificar a produção necessária,
+- verificar o estoque de matéria-prima e os insumos diversos, 
+- calcular, em função do nível de produção e das horas previstas de trabalho, a necessidade de equipamento e de mão-de-obra; ou, em função dos equipamentos disponíveis, calcular as horas de trabalho necessárias ao entendimento do plano de produção, e
+- estipular prazo para início e término da produção quantificada.
+
+SIGACOM
+
+SIGACOM é o módulo de Compras Protheus. Que atende as necessidades para aquisição de materiais ou serviços de uma empresa através de um planejamento que permite mensurar a quantidade e momento adequado para adquirir novos insumos.
+
+Ele faz a análise, por exemplo, de cotações e automaticamente sugere a mais adequada. Permite aprovar a análise ou escolher outra cotação de acordo que atenda necessidades específicas. Controle com o Protheus:
+
+- necessidade de produtos
+- Indicadores de Produtos
+- Solicitação de Compras
+- Pedidos de Compra
+- Conhecimento de Frete
+
+SIGAEST
+
+TOTVS Protheus tem o SIGAEST, Módulo Estoque e Custos.  Um bom controle de estoques visa  reduzir custos. Este módulo garante a confiabilidade, velocidade e flexibilidade necessárias para organizar os processos de estocagem, armazenagem e custos. Assim as informações estarão integradas e poderá obter facilmente
+
+- Controle do fluxo de materiais
+- Domínio da movimentação de material
+- Formação de preço e analise gerencial de custos
+- Rastreabilidade desde o recebimento até a produção
+- FIFO
+- LIFO
+- Classificação ABC
+- Consultoria TOTVS Protheus
+
+O Protheus está em constante atualização e criação de novos módulos. Caso opte pelo TOTVS Protheus , você pode considerar uma consultoria TOTVS Protheus como opção para ajudar nesse processo.
+
+A melhor forma de utilização do potencial desses módulos é a customização, pois essa é a proposta TOTVS para seu negócio. A  Consultoria com sua experiência  adapta os módulos do sistema para se adequarem as necessidades reais para sanar suas dores.
+
+Lista de todos os módulos disponíveis no Protheus:
+
+Confira a lista de todos os módulos do Protheus
+01-SIGAATF.: Ativo fixo
+02-SIGACOM.: Compras
+04-SIGAEST.: Estoque e Custos
+05-SIGAFAT.: Faturamento
+06-SIGAFIN.: Financeiro
+07-SIGAGPE.: Gestão de Pessoal
+09-SIGAFIS.: Livros Fiscais
+10-SIGAPCP.: Planejamento e controle de produção
+11-SIGAVEI.: Veículos
+12-SIGALOJA: Operações de PDV e retaguarda
+13-SIGATMK.: Telemarketing, Televendas e Telecobrança
+14-SIGAOFI.: Oficina
+16-SIGAPON.: Ponto eletrônico
+17-SIGAEIC.: Easy Import Control
+18-SIGATCF.: RH online
+19-SIGAMNT.: Manutenção de Ativos
+20-SIGARSP.: Recrutamento e Seleção Pessoal
+21-SIGAQIE.: Inspeção de Entradas
+22-SIGAQMT.: Metrologia (laboratório)
+23-SIGAFRT.: Front Loja
+24-SIGAQDO.: Controle de documentos
+25-SIGAQIP.: Inspeção de Processos
+26-SIGATRM.: Treinamento
+28-SIGATEC.: Field Service
+29-SIGAEEC.: Easy Expot Control
+30-SIGAEFF.: Easy Financing
+31-SIGAECO.: Easy Accounting 
+33-SIGAPLS.: Plano de Saúde
+34-SIGACTB.: Contabilidade
+35-SIGAMDT.: Medicina e Segurança do Trabalho
+36-SIGAQNC.: Controle de Não-Conformidades
+37-SIGAQAD.: Controlar de Auditoria
+39-SIGAOMS.: Gestão de Distribuição
+40-SIGACSA.: Cargos e Salários
+42-SIGAWMS.: Gestão de Armazéns
+43-SIGATMS.: Gestão de Transportes
+44-SIGAPMS.: Gestão de Projetos
+45-SIGACDA.: Controle de Direitos Autorais
+46-SIGAACD.: Automação Coleta de Dados
+47-SIGAPPAP: Processo de Aprovação de Peças de Produção
+51-SIGAHSP.: Gestão Hospitalar
+53-SIGAAPD.: Avaliação e Pesquisa de Desempenho
+55-SIGACRD.: Sistema de Fidelização e Analise de Crédito
+56-SIGASGA.: Gestão Ambiental
+57-SIGAPCO.: Planejamento e Controle Orçamentário
+64-SIGAAPT.: Acompanhamento de processos trabalhistas
+67-SIGAAGR.: Gestão Agrícola
+69-SIGAGCT.: Gestão de Contratos
+70-SIGAORG.: Arquitetura organizacional
+73-SIGACRM.: Customer Relationship Management (CRM)
+76-SIGAJURI: Gestão de Assuntos Jurídicos
+77-SIGAPFS.: Pré faturamento de Serviço
+78-SIGAGFE.: Frete Embarcador
+79-SIGASFC.: Chão de Fábrica
+82-SIGADPR.: Desenvolvedor de Produtos
+84-SIGATAF.: TOTVS Automação Fiscal
+86-SIGAVDF.: Vida Funcional
+87-SIGAGCP.: Gestão de Licitações
+88-SIGAGTP.: Gestão de transporte de passageiro
+95-SIGAGFR.: Gestão de Frotas
+
+Menus dos módulos
+
+Em todos os módulos existem 3 opções principais: ATUALIZAÇÕES, CONSULTAS e RELATÓRIOS:
+
+Quando se está executando a rotina é possivel identificar facilmente se está posicionado em uma destas 3 opções, simplemeste pressionado as teclas "Shift + F6"
+
+Consulte nome do objeto e verifique a quarta letra.
+Quando:
+	A = Atualizações
+	C = Consultas
+	R = Relatórios
+	
+.FIM
+
+ 
+Exemplo:
+	MATA020 - Quarta letra indica que está em ATUALIZAÇÕES
+	MATC020 - Quarta letra indica que está em CONSULTAS
+	MATR020 - Quarta letra indica que está em RELATÓRIOS
+
+.Fim

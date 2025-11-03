@@ -1,0 +1,46 @@
+Avaliação sobre "Estrutura do TABELAS":
+======================================
+
+ATENÇÃO: - Este questionario pode conter multiplas escolhas
+
+Assinale apenas as alternativas corretas:
+
+1. Onde são salvas as tabelas do sistema ?
+[x] Banco de dados
+[ ] Protheus_Data
+[ ] Protheus_Data\System
+[ ] System
+
+2. Onde são salvos os dicionarios do sistema ?
+[ ] Banco de dados
+[ ] Protheus_Data
+[x] Protheus_Data\System
+[ ] System
+
+3. Como preencher automaticamente um campo na tabela, com a informação do usuario que 
+efetuou a inclusão de um registro quarquer ?
+[x] Cria um campo com o nome "_UserLGI"
+[ ] Cria um campo com o nome "_UserLGA"
+[ ] Cria um campo com o nome "USER"
+[ ] Cria um campo com o nome "INCLUSAO"
+
+4. Como preencher automaticamente um campo na tabela, com o usuario que efetuou a 
+ultima alteração de um registro qualquer ?
+[ ] Cria um campo com o nome "_UserLGI"
+[x] Cria um campo com o nome "_UserLGA"
+[ ] Cria um campo com o nome "USER"
+[ ] Cria um campo com o nome "INCLUSAO"
+
+5. Qual o campo é preenchido com "*" na tabela do sistema quando um registro é deletado ?
+[x] D_E_L_E_T_ 
+[ ] R_E_C_N_O_
+[ ] _FILIAL
+[ ] _DATA
+
+6. Qual o campo é preenchido na tabela do sistema, com o numero do registro ?
+[ ] D_E_L_E_T
+[x] R_E_C_N_O_
+[ ] _FILIAL
+[ ] _DATA
+
+.FIM

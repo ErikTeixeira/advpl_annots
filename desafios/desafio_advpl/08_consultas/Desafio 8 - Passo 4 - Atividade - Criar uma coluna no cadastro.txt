@@ -1,0 +1,29 @@
+Desafio de Funcionalidade
+=========================
+
+Objetivo..: - Conhecer a funcionalidade de criar colunas no navegador Protheus
+Meta......: - Adquirir conhecimento funcional sobre o Protheus
+
+Como incluir novo campo no navegador do cadastro:
+=================================================
+
+1-Entrar no módulo "06-Financeiro"
+
+2-No menu, encontrar a opção de "Funções do contas a Pagar"
+
+3-Clique na engrenagem que fica no canto superior direito
+
+4-Clique na opção incluir coluna
+
+5-Digite nos campos as seguintes informações:
+	Titulo          : Nome do Fornecedor
+	Dados           : POSICIONE("SA2",1,xFilial("SA2") + SE2->(E2_FORNECE + E2_LOJA),"A2_NOME")
+	Tipo            : 3-Função
+	Alinhamento     : 1-Esquerda
+	Edita Dados     : 2-Não
+	Largura         : 40
+	ID              : IDNOME
+
+6-Posicione a nova coluna logo apos os campos "Fornecedor / Loja"
+
+.FIM

@@ -1,0 +1,82 @@
+Avaliação sobre ESTRUTURA DIRETORIOS:
+=====================================
+
+ATENÇÃO: - Este questionario pode conter multiplas escolhas
+
+Assinale apenas a(s) alternativa(s) correta(s):
+
+01. Com base na estrutura de pastas, qual a pasta principal da instalação do Protheus ?
+[x] \PROTHEUS
+[ ] \BIN\APPSERVER
+[x] \TOTVS
+[ ] \SEMAFORO
+
+02. Com base na estrutura de pastas, onde é armazenado o repositório de objetos ?
+[x] \APO
+[ ] \BIN\APPSERVER
+[ ] \SPOOL
+[ ] \SEMAFORO
+
+03. Com base na estrutura de pastas, onde é armazenado os arquivos para acesso via Web ?
+[ ] \APO
+[x] \BIN\SMARTCLIENTE_ACTIVEX	
+[ ] \BIN\SMARTCLIENT
+[ ] \BIN\APPSERVER
+
+04. Com base na estrutura de pastas, onde é armazenado os executáveis, bibliotecas e arquivos de acesso (.INI) do sistema ?
+[ ] \APO
+[ ] \BIN\SMARTCLIENTE_ACTIVEX
+[x] \BIN\SMARTCLIENT
+[x] \BIN\APPSERVER
+
+05. Com base na estrutura de pastas, onde é armazenado os executáveis, bibliotecas e 
+arquivos de configuração (.INI) do sistema ?
+[ ] \APO
+[x] \BIN\APPSERVER
+[ ] \SPOOL
+[ ] \SEMAFORO
+
+06. Com base na estrutura de pastas, onde é armazenado os arquivos de configuração e 
+bibliotecas para acesso aos arquivos SX's ?
+[ ] \BIN\SMARTCLIENTE_ACTIVEX	.
+[ ] \BIN\SMARTCLIENT
+[x] \BIN\APPSERVER
+[ ] \BIN\APPSERVER\ACE_7.00
+
+07. Com base na estrutura de pastas, onde é armazenado os arquivos com as Bibliotecas (.CH) necessárias a execução e compilação do Protheus ?
+[ ] \BIN\SMARTCLIENT
+[ ] \BIN\APPSERVER
+[ ] \BIN\APPSERVER\ACE_7.00
+[x] \INCLUDE
+
+08. Com base na estrutura de pastas, onde é armazenado os arquivos de carga do dicionarios de dados e Helps do Protheus, usado na instalação ?
+[ ] \BIN\SMARTCLIENT
+[ ] \BIN\APPSERVER\ACE_7.00
+[x] \SYSTEMLOAD
+[ ] \INCLUDE
+
+09. Com base na estrutura de pastas, onde é armazenado os arquivos destinado para a gravação de relatórios gerados em disco ?
+[ ] \BIN\APPSERVER
+[ ] \BIN\SMARTCLIENT
+[x] \SPOOL
+[ ] \SEMAFORO
+
+10. Com base na estrutura de pastas, onde é armazenado os arquivos complementares para as sequências de documentos ?
+[ ] \BIN\APPSERVER
+[ ] \BIN\SMARTCLIENT
+[x] \SEMAFORO
+[ ] \INCLUDE
+
+11. Assinale quais opções de pastas são excenciais para carga de dados do sistema ?
+[x] \BIN\APPSERVER
+[ ] \BIN\SMARTCLIENT
+[x] \PROTHEUS_DATA\System
+[ ] \PROTHEUS_DATA\SystemLoad
+
+12. Assinale quais opções de pastas são excenciais para a aplicação do sistema ?
+[x] \PROTHEUS\INCLUDE
+[x] \PROTHEUS\BIN\APPSERVER
+[x] \PROTHEUS\BIN\SMARTCLIENT
+[ ] \PROTHEUS_DATA\SEMAFORO
+
+.FIM

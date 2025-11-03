@@ -1,0 +1,447 @@
+Avaliação sobre "Módulos do Protheus":
+======================================
+
+O ERP TOTVS Protheus conta com mais de 80 módulos para facilitar e aumentar a sua capacidade de gerenciamento do seu negócio de forma integrada.
+
+As rotinas são agrupadas por módulos e acessadas pelo respectivo menu, afim de dar acesso apenas aos usuarios do departamento.
+
+Com base nos links apresentados, responda a funcionalidade de cada módulo:
+
+ATENÇÃO: - Este questionario pode conter multiplas escolhas
+
+Assinale apenas a(s) alternativa(s) correta(s):
+
+01. A manufatura é uma forma de transformação de matéria-prima em produto final a ser comercializado. Assinale a seguir qual(is) modulo(s) pertence(m) a categoria de manufatura ?
+[ ] Financeiro
+[ ] Gestão de Pessoal
+[ ] Livros Fiscais
+[x] Chão de Fábrica
+
+
+02. A controladoria tem um papel fundamental na análise da saúde financeira da empresa, pois reúne dados sobre cada transação, investimento, receitas e custos. Assinale a seguir qual(is) modulo(s) pertence(m) a categoria de controladoria ?
+[x] Ativo fixo
+[x] Financeiro
+[x] Livros Fiscais
+[x] Contabilidade
+
+03. A logística envolve a gestão, o armazenamento e a distribuição de recursos para uma determinada atividade. Assinale a seguir qual(is) modulo(s) pertence(m) a categoria de logistica ?
+[x] SIGAOMS
+[x] SIGAWMS
+[x] SIGATMS
+[x] SIGAGFE
+
+04. O modulo de materiais envolve a atividade de movimentação tanto de entrada quanto saida, afim de atualizar a posição do estoque. Assinale a seguir qual(is) modulo(s) pertence(m) a categoria de materiais ?
+[x] SIGACOM
+[x] SIGAEST
+[ ] SIGAFAT
+[x] SIGAPCP
+
+05. O modulo de recursos humados envolve a atividade de controle dos funcionarios, seus pagamentos e obrigações. Assinale a seguir qual(is) modulo(s) pertence(m) a categoria de recursos humanos ?
+[x] SIGAGPE
+[ ] SIGAFAT
+[x] SIGAPON
+[ ] SIGATAF
+
+06. A área da saúde dá suporte a área de recursos humanos, na atividade do cuidado com a saúde das pessoas. Assinale a seguir qual(is) modulo(s) pertence(m) a categoria da saúde ?
+[x] SIGAPLS
+[ ] SIGAGPE
+[x] SIGAMDT
+[x] SIGAHSP
+
+07. O módulo de serviços controla toda atividade que vende mão-de-obra além de produtos. Assinale a seguir qual(is) modulo(s) pertence(m) a categoria da serviço ?
+[x] SIGATEC
+[ ] SIGACDA
+[ ] SIGAGCP
+[ ] SIGATUR
+
+08. O que significa o termo "backoffice" ou retaguarda nos módulos do Protheus?
+[ ] São atividades diretamente relacionadas ao atendimento ao cliente
+[ ] São atividades administrativos de uma empresa
+[x] Um conjunto de funções que acontecem em uma empresa sem a percepção do cliente
+[ ] São atividades relacionadas ao controle de recursos humanos
+
+09. Assinale o tópico que possui todos os modulos de "backoffice" no Protheus:
+[ ] Gestão de Pessoal, Compras, Faturamento, Fiscal, Financeiro e Contabilidade
+[ ] Estoque, Oficina, Faturamento, Fiscal, Financeiro e Contabilidade
+[ ] Estoque, Compras, Faturamento, Inspeção de Entradas, Financeiro e Contabilidade
+[x] Estoque, Compras, Faturamento, Fiscal, Financeiro e Contabilidade
+
+10. O que é ERP (Enterprise Resource Planning) ? 
+[x] Um sistema que atende a maioria dos processos administrativos da empresa  
+[x] Um sistema de gestão que permite acesso fácil, integrado e confiável aos dados de uma empresa
+[ ] Um sistema que permite fazer diagnósticos sobre os processos da empresa
+[ ] Um sistema que permite reduzir custos e aumentar a produtividade
+
+11. Qual a principal funcionalidade do módulo SIGAPCP ? 
+[x] Planejamento e controle de produção
+[ ] Financeiro
+[ ] Gestão de Pessoal
+[ ] Livros Fiscais
+
+12. Qual a principal funcionalidade do módulo SIGAVEI ? 
+[ ] Gestão de Pessoal
+[x] Veículos
+[ ] Livros Fiscais
+[ ] Planejamento e controle de produção
+
+13. Qual a principal funcionalidade do módulo SIGAGPE ? 
+[ ] Estoque e Custos
+[ ] Faturamento
+[x] Gestão de Pessoal
+[ ] Financeiro
+
+14. Qual a principal funcionalidade do módulo SIGAFIS ? 
+[ ] Faturamento
+[ ] Financeiro
+[ ] Gestão de Pessoal
+[x] Livros Fiscais
+
+15. Qual a principal funcionalidade do módulo SIGALOJA ? 
+[ ] Livros Fiscais
+[x] Operações de PDV e retaguarda
+[ ] Planejamento e controle de produção
+[ ] Veículos
+
+16. Qual a principal funcionalidade do módulo SIGAATF ? 
+[x] Ativo fixo
+[ ] Compras
+[ ] Estoque e Custos
+[ ] Faturamento
+
+17. Qual a principal funcionalidade do módulo SIGAFAT ? 
+[x] Faturamento
+[ ] Ativo fixo
+[ ] Compras
+[ ] Estoque e Custos
+
+18. Qual a principal funcionalidade do módulo 	 ? 
+[ ] Compras
+[x] Financeiro
+[ ] Estoque e Custos
+[ ] Faturamento
+
+19. Qual a principal funcionalidade do módulo SIGACOM ? 
+[ ] Ativo fixo
+[x] Compras
+[ ] Estoque e Custos
+[ ] Faturamento
+
+20. Qual a principal funcionalidade do módulo SIGAEST ? 
+[ ] Ativo fixo
+[ ] Compras
+[x] Estoque e Custos
+[ ] Faturamento
+
+21. Qual a principal funcionalidade do módulo SIGATMK ? 
+[ ] Livros Fiscais
+[ ] Veículos
+[x] Telemarketing, Televendas e Telecobrança
+[ ] Operações de PDV e retaguarda
+
+22. Qual a principal funcionalidade do módulo SIGAOFI ? 
+[ ] Veículos
+[ ] Operações de PDV e retaguarda
+[ ] Telemarketing, Televendas e Telecobrança
+[x] Oficina
+
+23. Qual a principal funcionalidade do módulo SIGATCF ? 
+[ ] Telemarketing, Televendas e Telecobrança
+[ ] Oficina
+[x] RH online
+[ ] Ponto eletrônico
+
+24. Qual a principal funcionalidade do módulo SIGAFRT ? 
+[ ] RH online
+[ ] Inspeção de Entradas
+[x] Front Loja
+[ ] Metrologia (laboratório)
+
+25. Qual a principal funcionalidade do módulo SIGAPON ? 
+[x] Ponto eletrônico
+[ ] Operações de PDV e retaguarda
+[ ] Telemarketing, Televendas e Telecobrança
+[ ] Oficina
+
+26. Qual a principal funcionalidade do módulo SIGAEIC ? 
+[ ] Operações de PDV e retaguarda
+[x] Easy Import Control
+[ ] Telemarketing, Televendas e Telecobrança
+[ ] Oficina
+
+27. Qual a principal funcionalidade do módulo SIGAQDO ? 
+[ ] Inspeção de Entradas
+[ ] Metrologia (laboratório)
+[ ] Front Loja
+[x] Controle de documentos
+
+28. Qual a principal funcionalidade do módulo SIGAQIP ? 
+[x] Inspeção de Processos
+[ ] Metrologia (laboratório)
+[ ] Front Loja
+[ ] Controle de documentos
+
+29. Qual a principal funcionalidade do módulo SIGAMNT ? 
+[ ] Oficina
+[ ] Ponto eletrônico
+[ ] RH online
+[x] Manutenção de Ativos
+
+30. Qual a principal funcionalidade do módulo SIGARSP ? 
+[ ] Ponto eletrônico
+[x] Recrutamento e Seleção Pessoal
+[ ] RH online
+[ ] Manutenção de Ativos
+
+31. Qual a principal funcionalidade do módulo SIGATRM ? 
+[ ] Front Loja
+[x] Treinamento
+[ ] Controle de documentos
+[ ] Inspeção de Processos
+
+32. Qual a principal funcionalidade do módulo SIGATEC ? 
+[ ] Controle de documentos
+[ ] Inspeção de Processos
+[x] Field Service
+[ ] Treinamento
+
+33. Qual a principal funcionalidade do módulo SIGAQIE ? 
+[ ] Ponto eletrônico
+[x] Inspeção de Entradas
+[ ] Recrutamento e Seleção Pessoal
+[ ] RH online
+
+34. Qual a principal funcionalidade do módulo SIGAQMT ? 
+[ ] Recrutamento e Seleção Pessoal
+[x] Metrologia (laboratório)
+[ ] RH online
+[ ] Inspeção de Entradas
+
+35. Qual a principal funcionalidade do módulo SIGAPLS ? 
+[x] Plano de Saúde
+[ ] Controle de documentos
+[ ] Field Service
+[ ] Easy Financing
+
+36. Qual a principal funcionalidade do módulo SIGAEEC ? 
+[x] Easy Export Control
+[ ] Inspeção de Processos
+[ ] Treinamento
+[ ] Field Service
+
+37. Qual a principal funcionalidade do módulo SIGACTB ? 
+[ ] Plano de Saúde
+[ ] Controle de documentos
+[x] Contabilidade
+[ ] Field Service
+
+38. Qual a principal funcionalidade do módulo SIGAMDT ? 
+[ ] Plano de Saúde
+[ ] Manutenção de Ativos
+[ ] Field Service
+[x] Medicina e Segurança do Trabalho
+
+39. Qual a principal funcionalidade do módulo SIGACDA ? 
+[ ] Controlar de Auditoria
+[ ] Gestão de Distribuição
+[x] Controle de Direitos Autorais
+[ ] Gestão de Projetos
+
+40. Qual a principal funcionalidade do módulo SIGAACD ? 
+[ ] Gestão de Distribuição
+[ ] Controle de Direitos Autorais
+[x] Automação Coleta de Dados
+[ ] Gestão de Projetos
+
+41. Qual a principal funcionalidade do módulo SIGATMS ? 
+[ ] Cargos e Salários
+[x] Gestão de Transportes
+[ ] Controlar de Auditoria
+[ ] Gestão de Distribuição
+
+42. Qual a principal funcionalidade do módulo SIGAPMS ? 
+[ ] Gestão de Transportes
+[ ] Controlar de Auditoria
+[ ] Gestão de Distribuição
+[x] Gestão de Projetos
+
+43. Qual a principal funcionalidade do módulo SIGAQAD ? 
+[ ] Controle de Não-Conformidades
+[ ] Manutenção de Ativos
+[x] Controlar de Auditoria
+[ ] Field Service
+
+44. Qual a principal funcionalidade do módulo SIGAOMS ? 
+[ ] Manutenção de Ativos
+[ ] Field Service
+[ ] Controlar de Auditoria
+[x] Gestão de Distribuição
+
+45. Qual a principal funcionalidade do módulo SIGAGFR ? 
+[ ] Controle de Direitos Autorais
+[ ] Automação Coleta de Dados
+[ ] Gestão de Projetos
+[x] Gestão de Frotas
+
+46. Qual a principal funcionalidade do módulo SIGAQNC ? 
+[x] Controle de Não-Conformidades
+[ ] Manutenção de Ativos
+[ ] Field Service
+[ ] Medicina e Segurança do Trabalho
+
+47. Qual a principal funcionalidade do módulo SIGACSA ? 
+[ ] Field Service
+[x] Cargos e Salários
+[ ] Controlar de Auditoria
+[ ] Gestão de Distribuição
+
+48. Qual a principal funcionalidade do módulo SIGAWMS ? 
+[ ] Cargos e Salários
+[ ] Controlar de Auditoria
+[ ] Gestão de Distribuição
+[x] Gestão de Armazéns
+
+49. Qual a principal funcionalidade do módulo SIGACRD ? 
+[ ] Gestão de Projetos
+[x] Fidelização e Analise de Crédito
+[ ] Gestão de Frotas
+[ ] Avaliação e Pesquisa de Desempenho
+
+50. Qual a principal funcionalidade do módulo SIGASGA ? 
+[ ] Gestão de Frotas
+[ ] Avaliação e Pesquisa de Desempenho
+[x] Gestão Ambiental
+[ ] Fidelização e Analise de Crédito
+
+51. Qual a principal funcionalidade do módulo SIGAHSP ? 
+[ ] Automação Coleta de Dados
+[x] Gestão Hospitalar
+[ ] Gestão de Projetos
+[ ] Gestão de Frotas
+
+52. Qual a principal funcionalidade do módulo SIGAAPD ? 
+[x] Avaliação e Pesquisa de Desempenho
+[ ] Gestão Hospitalar
+[ ] Gestão de Projetos
+[ ] Gestão de Frotas
+
+53. Qual a principal funcionalidade do módulo SIGAPCO ? 
+[ ] Avaliação e Pesquisa de Desempenho
+[ ] Fidelização e Analise de Crédito
+[ ] Gestão Ambiental
+[x] Planejamento e Controle Orçamentário
+
+54. Qual a principal funcionalidade do módulo SIGAJURI ? 
+[x] Gestão de Assuntos Jurídicos
+[ ] Gestão Agrícola
+[ ] Gestão de Contratos
+[ ] Customer Relationship Management
+
+55. Qual a principal funcionalidade do módulo SIGASFC ? 
+[ ] Gestão de Assuntos Jurídicos
+[x] Chão de Fábrica
+[ ] Pré faturamento de Serviço
+[ ] Frete Embarcador
+
+56. Qual a principal funcionalidade do módulo SIGADPR ? 
+[ ] Pré faturamento de Serviço
+[ ] Frete Embarcador
+[x] Desenvolvedor de Produtos
+[ ] Chão de Fábrica
+
+57. Qual a principal funcionalidade do módulo SIGAGFE ? 
+[x] Frete Embarcador
+[ ] Customer Relationship Management
+[ ] Gestão de Assuntos Jurídicos
+[ ] Pré faturamento de Serviço
+
+58. Qual a principal funcionalidade do módulo SIGAAPT ? 
+[x] Acompanhamento de processos trabalhistas
+[ ] Fidelização e Analise de Crédito
+[ ] Gestão Ambiental
+[ ] Planejamento e Controle Orçamentário
+
+59. Qual a principal funcionalidade do módulo SIGAAGR ? 
+[x] Gestão Ambiental
+[ ] Gestão Agrícola
+[ ] Planejamento e Controle Orçamentário
+[ ] Acompanhamento de processos trabalhistas
+
+60. Qual a principal funcionalidade do módulo SIGACRM ? 
+[ ] Gestão Agrícola
+[x] Customer Relationship Management
+[ ] Gestão de Contratos
+[ ] Arquitetura organizacional
+
+61. Qual a principal funcionalidade do módulo SIGATAF ? 
+[x] TOTVS Automação Fiscal
+[ ] Frete Embarcador
+[ ] Chão de Fábrica
+[ ] Desenvolvedor de Produtos
+
+62. Qual a principal funcionalidade do módulo SIGAGCT ? 
+[ ] Planejamento e Controle Orçamentário
+[ ] Acompanhamento de processos trabalhistas
+[ ] Gestão Agrícola
+[x] Gestão de Contratos
+
+63. Qual a principal funcionalidade do módulo SIGAORG ? 
+[x] Arquitetura organizacional
+[ ] Acompanhamento de processos trabalhistas
+[ ] Gestão Agrícola
+[ ] Gestão de Contratos
+
+64. Qual a principal funcionalidade do módulo SIGAGCP ? 
+[ ] Desenvolvedor de Produtos
+[ ] TOTVS Automação Fiscal
+[x] Gestão de Licitações
+[ ] Vida Funcional
+
+65. Assinale quais atividades são gerenciadas pelo modulo Financero ?
+[ ] Controle de Estoque
+[x] Titulos a Receber
+[x] Titulos a Pagar
+[ ] Emissão de notas fiscais
+
+66. Assinale quais atividades são gerenciadas pelo modulo de Estoque ?
+[ ] Emissão de nota fiscal 
+[x] Acerto de Saldos
+[ ] Titulos a Receber
+[x] Transfencia entre Armazens
+
+67. Assinale quais atividades são gerenciadas pelo modulo de Faturamento ?
+[x] Emissão de nota fiscal 
+[ ] Escrituração Fiscal
+[x] Titulos a Receber
+[ ] Transfencia entre Armazens
+
+68. Assinale quais atividades são gerenciadas pelo modulo de Livros Fiscais ?
+[ ] Emissão de nota fiscal 
+[x] Escrituração Fiscal
+[ ] Titulos a Receber
+[ ] Lançamento Contabil
+
+69. Assinale quais atividades são gerenciadas pelo modulo de Contabilidade ?
+[ ] Emissão de nota fiscal 
+[ ] Escrituração Fiscal
+[ ] Titulos a Receber
+[x] Lançamento Contabil
+
+70. Assinale quais atividades são gerenciadas pelo modulo de Compras ?
+[x] Solicitação de Compra
+[ ] Escrituração Fiscal
+[x] Pedido de Compra
+[ ] Titulos a Receber
+
+71. Assinale quais atividades são gerenciadas pelo modulo de Recursos Humanos ?
+[x] Cálculo Adiantamento
+[ ] Contas a Pagar
+[x] Cálculo da Folha de Pagamento
+[x] Controle de Férias
+
+72. Assinale quais atividades são gerenciadas pelo modulo de Logistica ?
+[ ] Pedido de Compra
+[x] Controle de Frete
+[ ] Cálculo da Folha de Pagamento
+[ ] Controle de Férias
+
+.Fim

@@ -1,0 +1,152 @@
+Desafio de Desenvolvimento
+==========================
+
+Nome da atividade: SINTAXE DE PARAMETROS
+
+Utilizando o conhecimento adquirido sobre SINTAXE complete o fonte PARAM1.PRW
+
+.Fim
+
+#Include "TOTVS.CH"
+
+/*
+    Teste de conhecimento - Utilizacao de Parametros
+
+	Contrua uma rotina que utilize a funcao TestParam()
+
+*/
+
+User Function Param1
+
+TestParam()
+
+Return
+
+
+/*
+
+    Sintaxe: TestParam( par1,par2,par3,par4,par5,par6,par7,par8,par9,par10,par11,par12,par13,par14,par15,par16,par17,par18,par19,par20,par21,par22,par23 )
+
+	<ExpC1> Variavel Alfanumerica (String)
+	<ExpN2> Variavel Numerica
+	<ExpL3> Variavel Logica
+	<ExpD4> Variavel Data
+	<ExpA5> Variavel Array
+	<ExpU6> Variavel Indefinida - Enviar vazio
+	<ExpC7> Variavel Alfanumerica (String)
+	<ExpN8> Variavel Numerica
+	<ExpL9> Variavel Logica
+	<ExpD10> Variavel Data
+	<ExpU11> Indefinida - Enviar vazio
+	<ExpC12> Variavel Alfanumerica (String)
+	<ExpC13> Variavel Alfanumerica (String)
+	<ExpN14> Variavel Numerica
+	<ExpN15> Variavel Numerica
+	<ExpD16> Variavel Data
+	<ExpD17> Variavel Data
+	<ExpL18> Variavel Logica
+	<ExpL19> Variavel Logica
+	<ExpA20> Variavel Array
+	<ExpA21> Variavel Array
+	<ExpB22> Variavel CODEBLOCK
+	<ExpU23> Indefinida - Enviar vazio
+*/
+
+Static Function TestParam( par1,par2,par3,par4,par5,par6,par7,par8,par9,par10,par11,par12,par13,par14,par15,par16,par17,par18,par19,par20,par21,par22,par23)
+
+If Valtype( par1 ) <> "C"
+	MsgStop("<ExpC1> Variavel Alfanumerica (String)","Parametro errado")
+	Return
+Endif
+If Valtype( par2 ) <> "N"
+	MsgStop("<ExpN2> Variavel Numerica","Parametro errado")
+	Return
+Endif
+If Valtype( par3 ) <> "L"
+	MsgStop("<ExpL3> Variavel Logica","Parametro errado")
+	Return
+Endif
+If Valtype( par4 ) <> "D"
+	MsgStop("<ExpD4> Variavel Data","Parametro errado")
+	Return
+Endif
+If Valtype( par5 ) <> "A"
+	MsgStop("<ExpA5> Variavel Array","Parametro errado")
+	Return
+Endif
+If Valtype( par6 ) <> "U"
+	MsgStop("<ExpU6> Variavel Indefinida - Enviar vazio","Parametro errado")
+	Return
+Endif
+If Valtype( par7 ) <> "C"
+	MsgStop("<ExpC7> Variavel Alfanumerica (String)","Parametro errado")
+	Return
+Endif
+If Valtype( par8 ) <> "N"
+	MsgStop("<ExpN8> Variavel Numerica","Parametro errado")
+	Return
+Endif
+If Valtype( par9 ) <> "L"
+	MsgStop("<ExpL9> Variavel Logica","Parametro errado")
+	Return
+Endif
+If Valtype( par10 ) <> "D"
+	MsgStop("<ExpD10> Variavel Data","Parametro errado")
+	Return
+Endif
+If Valtype( par11 ) <> "U"
+	MsgStop("<ExpU11> Indefinida - Enviar vazio","Parametro errado")
+	Return
+Endif
+If Valtype( par12 ) <> "C"
+	MsgStop("<ExpC12> Variavel Alfanumerica (String)","Parametro errado")
+	Return
+Endif
+If Valtype( par13 ) <> "C"
+	MsgStop("<ExpC13> Variavel Alfanumerica (String)","Parametro errado")
+	Return
+Endif
+If Valtype( par14 ) <> "N"
+	MsgStop("<ExpN14> Variavel Numerica","Parametro errado")
+	Return
+Endif
+If Valtype( par15 ) <> "N"
+	MsgStop("<ExpN15> Variavel Numerica","Parametro errado")
+	Return
+Endif
+If Valtype( par16 ) <> "D"
+	MsgStop("<ExpD16> Variavel Data","Parametro errado")
+	Return
+Endif
+If Valtype( par17 ) <> "D"
+	MsgStop("<ExpD17> Variavel Data","Parametro errado")
+	Return
+Endif
+If Valtype( par18 ) <> "L"
+	MsgStop("<ExpL18> Variavel Logica","Parametro errado")
+	Return
+Endif
+If Valtype( par19 ) <> "L"
+	MsgStop("<ExpL19> Variavel Logica","Parametro errado")
+	Return
+Endif
+If Valtype( par20 ) <> "A"
+	MsgStop("<ExpA20> Variavel Array","Parametro errado")
+	Return
+Endif
+If Valtype( par21 ) <> "A"
+	MsgStop("<ExpA21> Variavel Array","Parametro errado")
+	Return
+Endif
+If Valtype( par22 ) <> "B"
+	MsgStop("<ExpB22> Variavel CODEBLOCK","Parametro errado")
+	Return
+Endif
+If Valtype( par23 ) <> "U"
+	MsgStop("<ExpU23> Indefinida - Enviar vazio","Parametro errado")
+	Return
+Endif
+
+MsgAlert("Voce concluiu o exercicio com sucesso !!!!")
+
+Return

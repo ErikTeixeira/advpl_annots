@@ -1,0 +1,36 @@
+Desafio de Funcionalidade
+=========================
+
+Objetivo..: - Conhecer a funcionalidade da consulta generica
+Meta......: - Adquirir conhecimento funcional sobre o Protheus
+
+Como acessar uma Consulta Genérica no menu do Protheus 
+======================================================
+
+Todos os modulos do Protheus, por padrão, permitem o acesso a opção de consultas genericas através do caminho "Consultas > Cadastros > Genéricos"
+
+Requisitos: - Permissão de Acesso a consulta genérica  
+            - Conhecer o nome das tabelas do Protheus
+            - Dominio em filtros do Protheus
+            - Dominio básico em planilha de Excel
+
+Tarefa 1: - Crie uma consulta generica do cadastro de cliente, para mostrar em tela apenas com os campos a seguir:
+
+01 - Filial
+02 - Codigo
+03 - Loja
+04 - Nome
+05 - Fisica/Juridica
+06 - Estado
+
+Tarefa 2: - Crie um filtro para mostrar apenas os clientes do estado de "SP"
+
+Tarefa 3: - Salve a consulta com o nome "SA1-TREI", descrição "Consulta SA1" e saia da consulta
+
+Tarefa 4: - Resgate em tela a consulta "SA1-TREI" salva
+
+Tarefa 5: - Mostre o arquivo da consulta (extensão C4W) que foi gerado na "\PROTHEUS_DATA\SYSTEM" 
+
+Tarefa 6: - Reabra a consulta SA1-TREI no Protheus e extraia os dados em formato XML, e mostre no EXCEL 
+
+.FIM

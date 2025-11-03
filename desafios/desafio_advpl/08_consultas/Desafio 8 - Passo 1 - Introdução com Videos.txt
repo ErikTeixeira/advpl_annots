@@ -1,0 +1,20 @@
+Introdução 
+==========
+
+As consultas genéricas permitem disponibilizar para o usuario, em tela, as informações registradas no sistema.
+
+Uma "consulta genérica" permite definir quais os campos devem ser apresentados, filtrar dados e gerar relatórios dos mesmo, em acordo com a necessidade. É muito útil, quando se deseja ampliar ou limitar a visualização de um usuário. E em alguns casos, podem ser muito melhor que as consultas padrões, oferecendo mais flexibilidade para usuarios avançados.
+
+
+Veja os videos a seguir:
+
+ERP Protheus | Consultas Cadastros Genéricos - 01
+https://www.youtube.com/watch?v=-8gPYnB05aQ
+
+ERP Protheus | Consultas Cadastros Genéricos - 02
+https://www.youtube.com/watch?v=aHeI3sLVVkI
+
+Consulta Genérica no Protheus em 1 MINUTO
+https://www.youtube.com/watch?v=46sK5x-GHZ8
+
+.FIM

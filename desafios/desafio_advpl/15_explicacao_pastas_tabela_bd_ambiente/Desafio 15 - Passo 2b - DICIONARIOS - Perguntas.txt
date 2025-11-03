@@ -1,0 +1,120 @@
+Avaliação sobre "ESTRUTURA PROTHEUS":
+====================================
+
+ATENÇÃO: - Este questionario pode conter multiplas escolhas
+
+Assinale apenas a(s) alternativa(s) correta(s):
+
+01. Qual informação possui a tabela de dicionário SX1 ?
+[x] Perguntas do sistema
+[x] Parametros do sistema 
+[ ] Indices das tabelas 
+[ ] Campos das tabelas 
+
+02. Qual informação possui a tabela de dicionário SX2 ?
+[ ] Perguntas do sistema
+[x] Descrição das tabelas 
+[ ] Indices das tabelas 
+[ ] Campos das tabelas 
+
+03. Qual informação possui a tabela de dicionário SIX ?
+[ ] Tabelas genericas
+[ ] Descrição das tabelas 
+[x] Indices das tabelas 
+[ ] Parametros do sistema 
+
+04. Qual informação possui a tabela de dicionário SX3 ?
+[ ] Perguntas do sistema
+[ ] Descrição das tabelas 
+[ ] Parametros do sistema 
+[x] Campos das tabelas 
+
+05. Qual informação possui a tabela de dicionário SX5 ?
+[ ] Gatilhos do sistema 
+[ ] Descrição das tabelas 
+[ ] Indices das tabelas 
+[x] Tabelas genericas
+
+06. Qual informação possui a tabela de dicionário SX6 ?
+[ ] Tabelas genericas
+[ ] Descrição das tabelas 
+[ ] Indices das tabelas 
+[x] Parametros do sistema 
+
+07. Qual informação possui a tabela de dicionário SX7 ?
+[ ] Consultas padrão do sistema 
+[ ] Descrição das tabelas 
+[ ] Indices das tabelas 
+[x] Gatilhos do sistema 
+
+08. Qual informação possui a tabela de dicionário SXA ?
+[ ] Perguntas do sistema
+[ ] Consultas padrão do sistema 
+[ ] Indices das tabelas 
+[x] Pastas das tabelas
+
+09. Qual informação possui a tabela de dicionário SXB ?
+[ ] Perguntas do sistema
+[ ] Descrição das tabelas 
+[x] Consultas padrão do sistema 
+[ ] Indices das tabelas 
+
+10. Qual informação possui a tabela de dicionário SXE ?
+[ ] Perguntas do sistema
+[ ] Indices das tabelas 
+[ ] Controle de numeração do sistema (Numero utilizados)
+[x] Controle de numeração do sistema (Proximos numeros)
+
+11. Qual informação possui a tabela de dicionário SXF ?
+[ ] Perguntas do sistema
+[ ] Indices das tabelas 
+[x] Controle de numeração do sistema (Numero utilizados)
+[ ] Controle de numeração do sistema (Proximos numeros)
+
+12. Qual tabela de dicionario contem as informações sobre as empresas e filias do 
+cliente ?
+Resposta: na SYSTEM o SIGAMAT.EMP e em banco o SYS_COMPANY    
+
+13. O que é um RPO ?
+[x] Repositorio de Objetos 
+[ ] Arquivo binário	
+[ ] Executáveis, DLLs e RPO
+[ ] Atualizações do RPO
+
+14. O que é um BUILD ?
+[ ] Repositorio de Objetos 
+[x] Arquivo binário 	
+[ ] Executáveis, DLLs e RPO
+[ ] Atualizações do RPO
+
+15. O que é um Patch ?
+[ ] Arquivo binário com os APOs	
+[ ] Executáveis, DLLs e RPO
+[x] Atualizações do RPO
+
+16. Qual o programa iniciar o servidor do Protheus (Protheus Server) ?
+[x] AppServer.exe
+[ ] SmartClient.exe
+[ ] DbAccess.exe (Top Connect)
+[ ] Monitor.exe 
+
+17. Qual o programa iniciar o cliente do Protheus (Protheus Remote) ?
+[ ] AppServer.exe
+[x] SmartClient.exe
+[ ] DbAccess.exe (Top Connect)
+[ ] Monitor.exe 
+
+18. Qual o programa permite a conexão do Protheus com o Banco de Dados ?
+[ ] AppServer.exe
+[ ] SmartClient.exe
+[x] DbAccess.exe (Top Connect)
+[ ] Monitor.exe 
+
+19. Qual o programa permite monitorar os usuarios conectados no Protheus ?
+[ ] AppServer.exe
+[ ] SmartClient.exe
+[ ] DbAccess.exe (Top Connect)
+[x] Monitor.exe 
+
+
+.FIM

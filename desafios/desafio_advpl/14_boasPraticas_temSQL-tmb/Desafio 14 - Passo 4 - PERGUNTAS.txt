@@ -1,0 +1,667 @@
+Avaliação sobre "Melhores práticas - Regras de Desenvolvimento":
+================================================================
+
+A definição das melhores práticas em programação ADVPL, é o resultado do esforço de 
+programadores experiêntes em ADVPL ao descrever as ações que melhor atende a um
+desenvolvimento de códigos-fonte na linguagem ADVPL. 
+
+As melhores prática visa mais agilidade ao desenvolvimento e manutenção do código-fonte, 
+confiança no processamento e validação e agilidade ao processo envolvido na função ADVPL. 
+
+ATENÇÃO: - Este questionario pode conter multiplas escolhas
+
+Assinale apenas a(s) alternativa(s) correta(s):
+
+01. O que é um arquivo-fonte ADVPL ?
+[ ] Um arquivo WORD com regras de programação
+[ ] Um arquivo PDF com a documentação do Protheus
+[x] Um arquivo texto com comandos ADVPL
+[ ] Um arquivo texto com comandos MS-DOS
+
+02. O que é um código-fonte ADVPL ?
+[x] Uma sequencia de comandos ADVPL
+[ ] Uma sequencia de comandos MS-DOS
+[ ] Uma sequencia de comandos WINDOWS
+[ ] Uma sequencia de comandos PDF
+
+03. Dentro de um arquivo-fonte, o que é uma linha de código ?
+[ ] Um código BINARIO
+[ ] Um texto em formato WORD
+[ ] Um código HEXADECIMAL
+[x] Um comando seguido de seus parametros de trabalho
+
+04. Com base nas melhores práticas, o que é verdade ao escrever uma linha de código ?  
+[ ] Todos os comandos e parametros devem ficar na mesma linha
+[ ] Todo o código deve estar visível na tela
+[x] A visualização não deve precisar usar a barra horizontal 
+[ ] Não é necessário visualizar todo comando
+
+05. Qual a utilidade de comentário nos códigos-fontes ?
+[x] Auxiliar no entendimento código
+[ ] Deixar o codigo mais bonito
+[ ] Facilitar a leitura para um usuario sem conhecimento da linguagem
+[x] Ajudar numa possivel manutenção
+
+06. Como deve ser criado um comentário ?
+[ ] Explicando cada linha de comando
+[x] De forma sucinta
+[ ] Explicando cada comando ADVPL
+[ ] De forma detalhada
+
+07. Com base nas melhores práticas, qual a utilidade do cabeçalho no formato 
+Protheus.doc ?
+[x] Autodocumentar os programas-fontes escritos em ADVPL
+[ ] Deixar o codigo mais bonito
+[ ] Traduzir os comandos escritos no arquivo
+[ ] Mostrar quem criou o código-fonte
+
+08. Com base nas melhores práticas, qual comentário é útil no codigo-fonte ?
+[ ] Trechos de código descartados
+[ ] Sintaxe da linguagem	
+[x] Regras de negócio
+[ ] Comandos SQL
+
+09. Com base nas melhores práticas, qual a necessidade de identação no código-fonte ?
+[ ] Deixar o codigo mais bonito
+[x] Facilitar a leitura
+[x] Facilitar o entendimento 
+[x] Facilitar a manutenção 
+
+10. Qual a utilidade da quebra de linha ‘;’ ?
+[ ] Deixar o codigo mais bonito
+[x] Continuar o comando na linha seguinte 
+[x] Facilitar a leitura
+[ ] Adicionar comentário
+
+11. Qual a extensão utilizada para construir um código-fonte na linguagem ADVPL ?
+[ ] PRG - Programa CLIPPER
+[x] PRW - Programa Desenvolvido por terceiros
+[x] PRX - Programa Desenvolvido na TOTVS      
+[ ] CSV - Arquivo de dados
+
+12. Quais dos comandos a seguir são chamamos de Laço de Repetição ?
+[x] For ... Next
+[x] Do While ... Enddo
+[ ] If ... ElseIf ... Else ... Endif 
+[ ] Do Case ... EndCase
+
+13. Quais dos comandos a seguir são chamamos de Blocos de Condição ?
+[ ] For ... Next
+[ ] Do While ... Enddo
+[x] If ... ElseIf ... Else ... Endif 
+[x] Do Case ... EndCase
+
+14. Com base nas melhores práticas, porque criamos regras nos comandos de laço ?
+[ ] Para quebrar protocolos
+[ ] Para não haver atraso no processamento
+[x] Para não haver custo desnecessário na rotina  
+[ ] Para não seguir protocolos
+
+15. Com base nas melhores práticas, quais funções não utilizamos dentro de comandos 
+de laço ?
+[x] Chamadas de API  
+[x] Chamada de parâmetro usando GetMV() ou SuperGetMV() da mesma filial 
+[x] Funções que pegam propriedades de campos ( Exemplo: TamSx3() )
+[x] Todo comando que não está condicionado a mudanças de variáveis 
+
+16. Em banco de dados, o que é uma Query ?
+[ ] Um comando ADVPL
+[x] Uma instrução SQL 
+[ ] Um comando C#
+[ ] Um comando MS-DOS
+
+17. Em banco de dados, quais dos comandos a seguir são instruções SQL ?
+[x] SELECT 
+[x] UPDATE 
+[x] INSERT 
+[x] DELETE 
+
+18. Com base nas melhores práticas, quais das instruções SQL a seguir são permitidas 
+no Protheus ?
+[x] SELECT 
+[ ] UPDATE 
+[ ] INSERT 
+[ ] DELETE 
+
+O Protheus utiliza o DBAccess para controlar a comunicação com o banco de dados.
+Somente SELECT é permitido em SQL direto, porque é uma consulta que não altera os dados.
+
+19. Com base nas melhores práticas, em quais tipos de comandos deve-se aplicar a 
+identação no código-fonte? 
+[x] Laços de repetição 
+[x] Blocos de condição  
+[x] Instruções SQL 
+[x] Interfaces
+
+20. Na linguagem ADVPL, o que melhor define uma função ?
+[ ] Um componente
+[x] Uma rotina com objetivo determinado 
+[ ] Uma sequencia de comandos 
+[ ] Uma classe
+
+21. Na linguagem ADVPL, o que é uma verdade ?
+[ ] Um codigo-fonte não permite manutenção
+[ ] É comum ver funções com mais de 500 linhas de código
+[ ] O codigo-fonte nunca precisará de manutenção
+[x] Deve-se sempre facilitar a manutenção do código-fonte
+
+22. Em uma rotina de interface, o que é uma carga de dados ?
+[x] Buscar na tabela de origem de dados, quais as informações pré-existentes
+[ ] Buscar na tabela de parametros, quais as informações definidas
+[ ] Buscar em um arquivo em disco, quais as informações definidas
+[ ] Buscar em um WebService, quais as informações definidas
+
+23. Em uma rotina de interface, o que é uma validação ?
+[ ] Não permitir a digitação de dados corretos
+[x] Permitir a digitação de dados corretos
+[ ] Não permitir a escolha de dados corretos
+[x] Permitir a escolha de dados corretos
+
+24. Com base nas melhores práticas, o que fazer para facilitar a manutenção do 
+código-fonte ? 
+[ ] Escrever funções extensas
+[x] Dividir as funções em sub-rotinas menores para realizar operações secundárias 
+[x] Em rotinas de interfaces separar funções de validações das carga de dados  
+[x] Em rotinas de processamento dividir o processo em rotinas menores 
+
+25. O que é um ponteiro de acesso a dados ?
+[ ] O numero do registros na tabela
+[ ] O numero de linha do programa
+[x] Uma referencia a tabela na função que esta sendo usada
+[ ] O numero de registros de uma tabela
+
+26. Com base nas melhores práticas, o que fazer em rotinas de acesso a tabelas ?
+[x] Sempre proteger áreas de acesso a tabelas com GetArea() e RestArea()
+[ ] Nunca proteger areas de acesso a tabelas com GetArea() e RestArea()
+[x] Sempre fazer ponteiro de acesso a dados de tabelas
+[ ] Nunca fazer ponteiro de acesso a tabelas
+
+27. Quais comandos abaixo estão fazendo ponteiro de acesso a dados ?
+[ ] MsUnlock()
+[x] SE2->(MsUnlock())
+[ ] DbSkip()
+[x] SA2->(DbSkip()) 
+
+28. O que é uma Macro Execução ?
+[ ] Um comando randomico
+[x] Um comando salvo em uma variável e executado pelo comando "&"
+[ ] Um comando direto, usando função na linha de comando
+[ ] Uma função de usuário
+
+29. O que é um código explícito ?
+[ ] Um comando randomico
+[ ] Um comando salvo em uma variável e executado pelo comando "&"
+[x] Um comando direto, executando a função na linha de comando
+[ ] Uma função de usuário
+
+30. Com base nas melhores práticas, o que é certo dizer nas macro execuções ?
+[ ] Deve-se utilizar sempre 
+[ ] Deve-se utilizar apenas em último caso
+[x] Tem um custo maior para o processamento e deve ser evitada  
+[ ] Em uma gravação de campo, pode ser trocada pela função "FieldPut"
+
+31. Com base nas melhores práticas, quando deve ser criada uma "User Function" ?
+[x] Para utilização em chamadas externas
+[ ] Para utilização em chamadas de menu
+[ ] Para utilização em chamadas de Job de um serviço ou um Schedule
+[ ] Para utilização em sub-rotinas
+
+32. Com base nas melhores práticas, quando deve ser criada uma "Static Function" ?
+[ ] Para utilização em chamadas externas
+[ ] Para utilização em chamadas de menu
+[ ] Para utilização em chamadas de Job de um serviço ou um Schedule
+[x] Para utilização em sub-rotinas
+
+33. Em ADVPL, o que é uma CLASSE ? 
+[ ] Uma "User Function"
+[ ] Uma rotina que define um conjunto de objetos com a mesma finalidade
+[ ] Uma rotina que encapsula dados e procedimentos em uma variavel tipo Objeto 
+[x] Uma rotina que define o comportamento e ações de entidades salvas em variáveis 
+    tipo objeto
+
+34. O que é uma função "Dummy" ?
+[ ] Uma função do tipo "Static Function"
+[ ] Uma função do tipo "User Function"
+[ ] Uma função fantasma que serve apenas para reservarmos o nome do nosso ".prw"
+[x] Uma função com o mesmo nome do código-fonte, sem instruções internas ADVPL
+
+35. Com base nas melhores práticas, quando devemos usar uma função "Dummy" ?
+[ ] Para funções extensas 
+[ ] Quando temos um codigo-fonte escrito apenas com CLASSES
+[x] Quando precisamos que apareça o nome do código-fonte no Inspetor de Objeto
+[ ] Para funções internas
+
+36. Quais os escopos de variáveis existentes ?
+[x] Globais
+[x] Estáticas 
+[x] Privadas 
+[x] Locais
+
+37. Com base nas melhores práticas, o que é certo dizer sobre o uso de variáveis 
+globais ?
+[ ] Não é permitido o uso
+[x] Podem causar risco a todo sistema 
+[ ] Após serem criadas, ficam ativas em todo sistema
+[ ] Podem ser utilizadas a vontade
+
+38. Com base nas melhores práticas, o que é certo dizer sobre o uso de variáveis 
+estáticas ?
+[ ] Não é permitido o uso 
+[x] Podem causar risco as execuções de rotinas
+[x] Evitam passar outros tipos de variável por parâmetro 
+[ ] Podem ser utilizadas a vontade
+
+39. Com base nas melhores práticas, o que é certo dizer sobre o uso de variáveis 
+privadas ?
+[ ] Não é permitido o uso 
+[x] O uso deve ser justificado
+[ ] O uso pode ser facilmente contornado com variáveis locais passadas por referência 
+[ ] Não podem ser utilizadas de forma abusiva
+
+40. Com base nas melhores práticas, quando deve-se utilizar under-line no nome da variável ?
+[ ] Quando for uma variável LOCAL
+[x] Quando for uma variável PRIVADA
+[ ] Quando for uma variável PUBLICA
+[ ] Quando for uma variável recebida por parametro
+
+41. Com base nas melhores práticas, na linguagem ADVPL qual o tamanho maximo do nome de
+uma variável ?
+[ ]  5 caracteres 
+[x] 10 caracteres 
+[ ] 20 caracteres 
+[ ] Indeterminado 
+
+42. Com base nas melhores práticas, qual a melhor forma de expressar a ideia do 
+conteúdo de uma variável ?
+[x] Usar notação húngara 
+[x] Usar abreviações 
+[ ] Remover vogais 
+[x] Utilizar capital para facilitar a leitura 
+
+43. Com base nas melhores práticas, na linguagem ADVPL qual o tamanho maximo da 
+nomeclatura de uma "User Function" ?
+[ ]  5 caracteres 
+[x]  8 caracteres 
+[ ] 10 caracteres 
+[ ] Indeterminado 
+
+44. Com base nas melhores práticas, na linguagem ADVPL qual o tamanho maximo da 
+nomenclatura de uma "Static Function" ?
+[ ]  5 caracteres 
+[ ]  8 caracteres 
+[x] 10 caracteres 
+[ ] Indeterminado 
+
+45. Com base nas melhores práticas, na linguagem ADVPL qual o tamanho maximo da 
+nomenclatura de uma "Function" ?
+[ ]  5 caracteres 
+[ ]  8 caracteres 
+[x] 10 caracteres 
+[ ] Indeterminado 
+
+46. Com base nas melhores práticas, o que é correto dizer sobre o uso do RETURN ?
+[ ] Não é recomendável utilizar controles lógicos para interromper uma execução
+[x] É recomendável utilizar controles lógicos para interromper uma execução
+[ ] Deve sempre utilizar o comando "Return" no meio da rotina
+[ ] Não se deve utilizar o comando "Return" no meio da rotina
+
+47. Com base nas melhores práticas, a partir da versão LOBO GUARÁ, é correto dizer que ?
+[ ] Será permitido acesso direto a qualquer tabela do dicionário de dados
+[ ] Não se deve-se utilizar funções da TOTVS para acesso a dicionarios 
+[x] Não será permitido acesso direto a qualquer tabela do dicionário de dados
+[x] Deve-se utilizar funções da TOTVS para acesso a dicionarios 
+
+48. Com base nas melhores práticas, validações de usuário em um registro devem estar 
+sempre em qual campo do dicionario de dados ?
+[ ] Campo X2_VALID 
+[ ] Campo X3_VALID
+[ ] Campo X6_VALID
+[x] Campo X3_VLDUSER 
+
+49. O que acontece se as validações de usuário forem colocadas no campo X3_VALID ?
+[ ] Serão mantidas ao fazer atualizações do sistema
+[x] Podem ser perdidas ao fazer atualizações do sistema
+[ ] Serão salvas fazer atualizações do sistema
+[ ] Darão conflitos ao fazer atualizações do sistema 
+
+50. Com base nas melhores práticas, qual a nomenclatura deve ser usada em CAMPOS 
+customizados ?
+[ ] Devem ter por padrão o W depois o under-line
+[ ] Devem ter por padrão o X depois o under-line
+[x] Devem ter por padrão o Y depois o under-line
+[ ] Devem ter por padrão o Z depois o under-line
+
+51. Com base nas melhores práticas, como destacar uma TABELA customizada no dicionario ?
+[x] Marcando o campo "X2_PROPRI" com "U"
+[ ] Marcando o campo "X3_PROPRI" com "U"
+[ ] Marcando o campo "X6_PROPRI" com "U"
+[ ] Marcando o campo "X7_PROPRI" com "U"
+
+52. Com base nas melhores práticas, como destacar um CAMPO customizada no dicionario ?
+[ ] Marcando o campo "X2_PROPRI" com "U"
+[x] Marcando o campo "X3_PROPRI" com "U"
+[ ] Marcando o campo "X6_PROPRI" com "U"
+[ ] Marcando o campo "X7_PROPRI" com "U"
+
+53. Com base nas melhores práticas, como destacar um PARAMETRO customizado no dicionario ?
+[ ] Marcando o campo "X2_PROPRI" com "U"
+[ ] Marcando o campo "X3_PROPRI" com "U"
+[x] Marcando o campo "X6_PROPRI" com "U"
+[ ] Marcando o campo "X7_PROPRI" com "U"
+
+54. Com base nas melhores práticas, como destacar um GATILHO customizado no dicionario ?
+[ ] Marcando o campo "X2_PROPRI" com "U"
+[ ] Marcando o campo "X3_PROPRI" com "U"
+[ ] Marcando o campo "X6_PROPRI" com "U"
+[x] Marcando o campo "X7_PROPRI" com "U"
+
+55. Qual a necessidade de criação de ÍNDICES ?
+[ ] Seguir protocolos
+[ ] Não seguir protocolos
+[ ] Organizar o nome das tabelas
+[x] Melhorar a performance de pesquisa nas tabelas
+
+56. Com base nas melhores práticas, quais os cuidados na criação de ÍNDICES ? 
+[ ] Sempre que possível colocar o maior numero de campos 
+[x] Sempre incluir o campo de filial 
+[x] Não criar indice idêntico a outro já existente 
+[x] Não criar indice igual ao início de um índice maior que já tem na base
+
+57. Com base nas melhores práticas, quais cuidados tomar antes da criação de novos 
+indices em uma tabela?
+[ ] Sempre criar dois novos indices para cada tabela
+[x] Verificar se a tabela já possui uma grande quantidade de índices
+[x] Verificar se a tabela possui grande volume de dados 
+[ ] Verificar se realmente o banco de dados precisa melhorar a performance 
+
+58. O que é um campo MEMO ?
+[ ] Um campo do tipo NUMÉRICO que permite apenas uma informação binária 0 e 1 
+[ ] Um campo do tipo LÓGICO que permite apenas uma informação verdadeiro ou falso 
+[x] Um campo do tipo CARACTER que permite uma grande quantidade de informação
+[ ] Um campo do tipo DATA que permite lembrar o dia da criação 
+
+59. Com base nas melhores práticas, qual o cuidado com campos tipo memo na abertura de
+telas ? 
+[ ] Sempre usar em tabelas com grande movimento 
+[x] Evitar uso excessivo em tabelas com grande movimento 
+[ ] Sempre listar em Browser
+[x] Evitar listar em Browser
+
+60. Com base nas melhores práticas, qual tecnica deve ser utilizada para extrair e
+atualizar informação em campos no banco de dados ?
+[ ] Recursos da linguagem SQL para consultar (Select)
+[ ] Recursos da linguagem C# 
+[x] Recursos da linguagem ADVPL para posicionar no registro e atualizar a informação 
+[ ] Somente recursos especificos do banco de dados para extrair e atualizar
+
+61. Quais das funções abaixo são para manipulação de interface ?
+[x] AxCadastro
+[x] AxAltera
+[x] AxDeleta
+[ ] NewGetDados 
+
+62. Quais das funções abaixo se tornaram obsoletas, lentas e foram substituídas 
+pelo MVC ? 
+[ ] AxCadastro
+[ ] AxAltera
+[ ] AxDeleta
+[x] Browser usando a função NewGetDados() 
+
+63. Com base nas melhores práticas, qual função deve ser utilizada para criar uma
+tabela temporária ? 
+[ ] CriaTrab
+[ ] DbSetFilter
+[x] FWTemporaryTable
+[ ] TemporaryFile
+
+64. Com base nas melhores práticas, qual função deve ser utilizada para filtrar dados
+em um browse ? 
+[ ] CriaTrab
+[x] DbSetFilter 
+[ ] FWTemporaryTable
+[ ] Set Filter to
+
+65. Com base nas melhores práticas, qual a recomendação da TOTVS para utilização de
+suas funções ?
+[ ] Utilize a função ADVPL que convem
+[x] Verifique se a função foi descontinuada antes de utilizar na codificação
+[ ] Não utilize nenhuma função TOTVS
+[ ] Crie suas próprias funções
+
+66. Com base nas melhores práticas, qual a recomendação para atualização de um registro
+na tabela ?
+[ ] Posicionar no registro apos atualizar 
+[x] Garantir o posicionamento antes de atualizar 
+[ ] Validar no registro apos atualizar 
+[ ] Validar o posicionamento antes de atualizar 
+
+67. Quais os comandos posicionam em um registro ?
+[x] DbSeek()
+[x] DbGoto()
+[ ] Eof()
+[ ] Bof()
+
+68. Quais os comandos validam o posicionamento de um registro ?
+[ ] DbSeek()
+[ ] DbGoto()
+[x] Eof()
+[x] Bof()
+
+69. O que faz o comando ADVPL "TCSqlExec" ?
+[x] Executa um comando SQL
+[ ] Executa um comando MS-DOS
+[ ] Executa um comando ADVPL
+[ ] Executa uma CLASSE ADVPL
+
+70. Com base nas melhores práticas, qual(is) comando(s) SQL não deve(m) ser executado(s)
+pelo comando ADVPL TCSqlExec ?
+[x] Insert 
+[ ] Merge 
+[x] Update 
+[x] Delete 
+
+71. O que faz o comando ADVPL "DELETE" ?
+[ ] Apaga fisicamente registros da tabela
+[x] Marca com "*" o campo D_E_L_E_T_ da tabela
+[ ] Marca um registro como verdadeiro ou falso
+[ ] Marca um registro como 0 ou 1
+
+72. O que faz o comando SQL "DELETE" ?
+[x] Apaga fisicamente registros da tabela
+[ ] Marca com "*" o campo D_E_L_E_T_ da tabela
+[ ] Marca um registro como verdadeiro ou falso
+[ ] Marca um registro como 0 ou 1
+
+73. Com base nas melhores práticas, como apagar um registro na tabela ? 
+[x] Utilize o comando ADVPL "DELETE"
+[ ] Utilize o comando SQL "DELETE" 
+[ ] Limpe o campo FILIAL
+[ ] Preencha o campo FILIAL
+
+74. Com base nas melhores práticas, como inserir um novo registro na tabela ? 
+[x] Usando o comando ADVPL "RECLOCK(.T.)"
+[ ] Usando o comando SQL "INSERT" 
+[ ] Limpe o campo FILIAL
+[ ] Preencha o campo FILIAL
+
+75. Com base nas melhores práticas, qual comando deve ser utilizado para alterar um 
+registro na tabela ?
+[x] Comando ADVPL "RECLOCK(.F.)"
+[ ] Comando SQL "UPDATE" 
+[ ] Comando MS-DOS "TRAVA"
+[ ] Comando C# "GRAVA"
+
+76. Com base nas melhores práticas, não será permitido resolver uma atualização em uma
+única query. Assinale os passos para atualizar uma tabela ?
+[x] Executar uma QUERY para filtrar os registros a serem alterados
+[x] Salvar o numero do registro numa variavel campo "Recno" 
+[x] Posicionar no registro utilizando com o comando DbGoto( "Recno" ) 
+[ ] Fazer uma QUERY que faça todo processo
+
+77. Com base nas melhores práticas, qual a tecnica correta para carregar uma informação
+na rotina ?
+[ ] Sempre utilizar o comandos SQL para executar toda operação 
+[ ] Sempre que possível, fracionar a consulta SQL 
+[x] Usar os recursos da linguagem no lugar de subquerys 
+[ ] Dentro de laços decompor as subquerys ou montar querys mais simples
+
+78. Com base nas melhores práticas, quais os cuidados a criar uma instrução SQL ?
+[ ] Fazer a query retornar uma matriz de linhas e colunas 
+[x] Não fazer "Select *" nas querys. 
+[x] Informar somente os campos a serem utilizados na query  
+[x] Não fazer conversões e operações matemáticas dentro da query 
+
+79. Porque utilizar uma QUERY em uma rotina ?
+[x] Para melhorar a performance de pesquisa na rotina
+[x] Para diminuir o tempo de processamento
+[ ] Para atualização de grandes quantidades de registro
+[ ] Para evitar erros de processamento
+
+80. Porque não se deve fazer qualquer tipo de alteração no retorno de um campo em 
+uma query ?
+[ ] Porque o resultado não é confiável
+[ ] Porque possui muita informação
+[x] Porque criamos um novo campo não indexado e por isso causa perda de performance
+[ ] Porque retorna uma matriz de dados
+
+81. Quais operações numa query a deixam mais lenta ?
+[x] Operações matemáticas com campos numéricos
+[x] Manipulação de string como Substring, Trim ou concatenação com "||" 
+[x] Comando "Case ... When" para condicionar um retorno 
+[ ] Operações com filtros de dados
+
+82. Com base nas melhores práticas, como devemos contruir uma QUERY ?
+[ ] Deve-se fazer esse tratamento dentro do laço com os recursos da linguagem ADVPL 
+[x] Não usar concatenação "||" na condição where de uma query
+[x] Aplicar filtros com base nos campos indexados
+[ ] Sempre usar o operador LIKE junto com '%' dos dois lados do parâmetro 
+
+83. Com base nas melhores práticas, como comparar informações vazias no filtro SQL  ?
+[ ] Usando o comando Criavar() do campo, com segundo parâmetro da função como false(.F.)
+[x] Usando a comparação com duas aspas simples e conteudo em branco
+[ ] Usando a comparação com duas aspas simples '' sem conteudo 
+[ ] Usando o operador LIKE 
+
+84. Com base nas melhores práticas, como verificar se um registros está deletado usando
+um comando SQL  ?
+[ ] Colocando no filtro a comparação D_E_L_E_T_ <> '*' 
+[x] Colocando no filtro a comparação D_E_L_E_T_ = ' '
+[ ] Colocando no filtro a comparação D_E_L_E_T_ = '' (sem espaço entre as aspas simples) para o 
+[ ] Colocando no filtro o operação LIKE
+
+85. Com base nas melhores práticas, quais os cuidados ao filtrar uma Query ?
+[x] Observar a ordem dos índices 
+[ ] Usar o artifício de > '  ' 
+[x] Usar o artifício BETWEEN '  ' AND 'ZZZ' 
+[ ] Sempre usar o operador LIKE
+
+86. Com base nas melhores práticas, qual o critério para criar filtros em comandos SQL ?
+[x] Com base em campos que estão nos indices da tabela
+[ ] Utilizar lotes dentro de um laço de repetição
+[ ] Utilizar o operador LIKE
+[ ] Utilizar o operador IN
+
+87. Com base nas melhores práticas, quando podemos utilizar "Begin Transaction" e 
+"End Trasaction" ?
+[ ] Em qualquer transação
+[ ] Em transações financeiras
+[x] Somente em operações executadas através de ADVPL ( TOPCONNECT )
+[ ] Somente em operações executadas através de QUERY ( TCSqlExec )
+
+88. O que é um "Dead Locks"  ? 
+[ ] Quando uma tabela é apagada propositalmente
+[ ] Quando um registro é apagado por engano
+[ ] Quando um banco de dados é apagado
+[x] Quando o banco de dados pára dois ou mais processos, aguardando um pelo outro para 
+continuarem suas atividades 
+
+89. O que é uma threads ?
+[ ] Um componente
+[ ] Um processamento
+[x] Uma tarefa
+[ ] Uma "User Function"
+
+90. Com base nas melhores práticas, como deve ser programado o processamento de pequenos
+ou grandes volumes de dados ?
+[ ] Com processamentos simultaneos para dividir as tarefas  
+[x] Executando o processamento em fila
+[ ] Processamento em múltiplAs threads 
+[ ] Executando o processamento em paraleto
+
+91. Com base nas melhores práticas, como é possivel diminuir o tempo de execução de uma 
+rotina de processamento?
+[ ] Criar duas "User Function" 
+[ ] Criar duas "Static Function" 
+[x] Usando a função StartJob() para criar uma Thread 
+[ ] Causar um paralelismo de processamento 
+
+92. Com base nas melhores práticas, qual a forma correta de abrir uma tabela 
+temporária criada por uma instrução SQL ?
+[ ] Utilizando o comando TcQuery()
+[x] Utilizando a combinação de comandos dbUseArea() e TcGenQry()
+[ ] Utilizando o comando DbCloseArea()
+[ ] Utilizando o comando DbSelectArea()
+
+93. O que é um comando "Embedded Sql"
+[ ] É uma instrução SQL que precisa salvar o comando na string cQuery
+[ ] É uma instrução ADVPL executada via "BeginSql / EndSql"
+[x] É uma instrução ADVPL que não precisa salvar a QUERY numa variavel cQuery
+[ ] É uma instrução SQL que precisa salvar o comando na string cQuery
+
+94. Com base nas melhores práticas, qual a melhor instrução SQL a ser utilizada ?
+[ ] Comando TcQuery()
+[x] Comando TcGenQry()
+[ ] Comando "Embedded Sql"
+[ ] Comando "SELECT *"
+
+95. O que faz um comando "GetLastQuery" ?
+[x] É uma instrução ADVPL que retorna o última query executada via "Embedded Sql"
+[ ] É uma instrução ADVPL que retorna o última query executada via "BeginSql / EndSql"
+[ ] É uma instrução SQL que retorna o ultima instrução SQL executada
+[ ] É uma instrução ADVPL que retorna o ultimo RECLOCK executado
+
+96. Com base nas melhores práticas, qual a melhor tecnica para depurar uma Query ?
+[ ] Utilizar o comando DEBUG
+[ ] Contruir a função com comando "Embedded Sql"
+[x] Utilizar o comando GetLastQuery() no console do depurador 
+[ ] Utilizar o comando TCQuery
+
+97. Se não for possível usar uma função "Embedded Sql", qual a segunda melhor tecnica 
+para depurar um comando SQL ?
+[x] Usar a combinação de comandos dbUseArea() e TcGenQry()
+[ ] Salvar a query em um arquivo na pasta SYSTEM
+[ ] Usar o comando Comando TcQuery()
+[ ] Usar o comando  "SELECT *"
+
+98. Em desenvolvimento de software, o que significa o termo "Chumbar" o código ?
+[ ] Flexibilizar uma informação no codigo fonte
+[x] Fixar o conteudo de uma variavel 
+[ ] Fixar o nome de uma tabela do banco de dados
+[x] Fixar o numero de registro de uma tabela 
+
+99. Em relação a banco de dados PROTHEUS, o que é um ALIAS ?
+[ ] Um apelido do campo da tabela
+[x] Um apelido da tabela
+[ ] Um apelido do parametro da tabela
+[ ] Um apelido do banco de dados
+
+100. Em relação a tabelas PROTHEUS, o que é um ALIAS ?
+[ ] Um apelido do campo da tabela
+[x] Um apelido da tabela
+[ ] Um apelido do parametro da tabela
+[ ] Um apelido do banco de dados
+
+101. Com base nas melhores práticas, quais os cuidados ao criar alias temporários de
+querys ?
+[x] Usar a função GetNextAlias() para criar alias temporários de querys 
+[ ] "Chumbar" um nome para criar alias temporários de querys 
+[ ] Excluir o arquivo ao encerrar a rotina
+[x] Fechar com o comando DbCloseArea()
+
+102. Com base nas melhores práticas, quais os cuidados com aberturas de tabelas ?
+[x] Abrir a área somente na rotina que será utilizada
+[x] Sempre fechar a área de uma query ao sair da função 
+[ ] Fechar com o comando DbCloseArea()
+[ ] Abrir com o comando DbSelectArea()
+
+.Fim

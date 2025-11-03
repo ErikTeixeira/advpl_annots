@@ -1,0 +1,48 @@
+Instruções para executar o AMBIENTE TREINAMENTO
+===============================================
+
+* * * ATENCAO * * *
+
+   Crie uma pasta no desktop do Windows chamada "Treinamento" com os atalhos criados do Protheus
+
+   Salve as instruções abaixo em um arquivo chamado "Passo-a-Passo.txt"
+
+*******************[ INICIO DO PASSO-A-PASSO ] *****************************
+
+Instruções executar o AMBIENTE TREINAMENTO
+==========================================
+
+Passo a passo:
+==============
+
+1. Clicar no "DBAccess64 - LOCAL - 12.1.33"
+2. Clicar no "License Server - LOCAL - 12.1.33"
+3. Clicar no "AppServer - LOCAL - 12.1.33"
+4. Clicar no "SmartClient - LOCAL - 12.1.33"
+
+   Programa inicial: SIGAMDI ou SIGAADV
+   Comunicação.....: LOCAL
+   Ambiente........: LOCAL
+
+   Clique no botão [ OK ]
+   
+   Usuario: Admin
+   Senha..: [BRANCO]
+   Clique no botão [ ENTRAR ]
+
+   Data Base: Data atual
+   Grupo....: 99-TESTE 
+   Filial...: 01-MATRIZ
+   Ambiente.: 06 - Financeiro
+
+   Pronto!
+
+*******************[ FIM DO PASSO-A-PASSO ] *****************************
+
+* * * ATENCAO * * *
+
+   Para informações complementares abra e leia o arquivo "AMBIENTE DE TREINAMENTO - Conclusão.txt" 
+   
+*************
+
+.Fim

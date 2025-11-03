@@ -1,0 +1,57 @@
+Tarefa:
+=======
+
+Objetivo: Integração de E-COMMERCE utilizando arquivo TEXTO
+
+Meta....: Importar os dados originais de uma planilha para o Protheus
+
+Cenario:
+========
+Existem dois sistemas que devem conversar entre si (Loja virtual e Protheus)
+
+>> Loja Virtual (Front End - Na visão do Cliente)
+>> Protheus     (Back End  - ERP=Sistema que gerencia todos os departamentos)
+
+Quando alguém na loja virtual preencher os dados do cliente, deve-se enviar os mesmo dados ao Protheus (SA1-Cliente) 
+
+O cadastro deve ser "Higienizado ou tratado" 
+Higienização = Retira caracteres especiais: [ ^~´#"'!@#$%¨&*&()_-+=[]{} ]
+Tratamento   = Complementar informação faltantes
+
+Tarefa principal:
+=================
+- Especificação:
+  + Criar uma tabela intermediária para salvar dados dos Clientes do E-commerce ( Exemplo: Excel formato CSV )
+  + Os campos obrigatórios devem tomar como base no cadastro de cliente (SA1)
+  + Colocar a tela no menu de Faturamento no caminho a seguir:
+    * Faturamento > Atualização > Especifico > Clientes E-Commerce  
+    * Função de Usuário >> AXCADSZ1  
+  + Criar um botão para copiar essas informações enviar para o "Cadastro de Cliente" 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Tarefa complementar:
+====================
+1. Documento de Especificação
+  + Documento: - Crie um documento Word (simples) com as informações a seguir:
+  + Objetivo.: - Mostrar a equipe entendimento do cenario
+  + Passos...: - Salvar e tratar a informação intermediarias dos Clientes de E-commerce
+               - Tratar os dados, retirnado os acentos e erros de digitação
+               - Copiar para a tabela SA1-Clientes
+
+2. Documentação Operacional:
+  + Documento: - Crie um documento Word (simples) com os Print de tela com todo processo
+  + Objetivo.: - Mostrar ao usuario como se faz
+  + Passos...: - Tela de inclusão do cliente de E-commerce (SZ1-Clientes do E-Commerce)
+               - Tela de tratamento dos dados (Retirar acentos e erros de digitação)
+               - Tela com botão de enviar os dados ao cadastro de cliente (SA1-Cliente) 
+               - Tela do cadastro de cliente (SA1-Cliente) apos inclusão
+
+3. Documentação Técnica:
+  + Documento: - Crie um documento Word e relacione a tabela SZ1 à SA1 através dos campos
+  + Objetivo.: - Segurança (Lembrar o departamento TI como e para que foi desenvolvido)
+  + Passos...: - Descrever o motivo da customização
+               - Mostrar nomes das tabelas, campos, indices envolvidos
+               - Mostrar o relacionamento entre as tabelas SZ1 e SA1
+.FIM
+

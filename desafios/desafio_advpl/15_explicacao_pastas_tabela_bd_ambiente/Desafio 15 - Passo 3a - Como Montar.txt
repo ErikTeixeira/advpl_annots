@@ -1,0 +1,150 @@
+Instruções para ativar o AMBIENTE P12.1.33
+=============================================
+
+O PROTHEUS funciona no conceito de "serviço no WINDOWS", então será necessário fazer algumas configurações para permitir sua utilização.
+
+Passo a passo:
+==============
+
+1- Certifique que as pastas a seguir foram criadas:
+	Estrutura:	C:\TOTVS\P12_1_33
+				C:\TOTVS\P12_1_33\Protheus
+				C:\TOTVS\P12_1_33\Protheus_Data
+				C:\TOTVS\P12_1_33\DbAccess64\DBAccess.exe 
+				C:\TOTVS\P12_1_33\TOTVSLicenseVirtual
+	
+2- Crie os atalhos do executáveis a seguir:
+	Criar:	C:\TOTVS\P12_1_33\Protheus\BIN\AppServer\AppServer.exe 
+			C:\TOTVS\P12_1_33\Protheus\BIN\SmartClient\SmartClient.exe 
+			C:\TOTVS\P12_1_33\DbAccess64\DBAccess.exe 
+			C:\TOTVS\P12_1_33\TOTVSLicenseVirtual\bin\appserver\AppServer.exe
+
+3- Ajuste os atalhos dos Executaveis a seguir:
+	3.1. Crie o atalho para o executável "AppServer.exe"
+	3.2. Com o mouse em cima do atalho, clique com botão direito e escolha "Propriedades" do Atalho
+	3.3. Mude o nome de "AppServer.exe - Atalho" para "Appserver - P12.1.33"
+	3.4. No campo destino acrescente o parametro "-console"
+		Exemplo: "C:\TOTVS\P12_1_33\Protheus\Bin\AppServer64\appserver.exe -console"
+	3.5. Na Aba "Compatibilidade" marque para "Executar como Administrador"
+
+	3.6. Crie o atalho para o executável "SmartClient.exe"
+	3.7. Com o mouse em cima do atalho, clique com botão direito e escolha "Propriedades" do Atalho
+	3.8. Mude o nome de "SmartClient.exe - Atalho" para "SmartClient - P12.1.33"
+	3.9. No campo destino acrescente o parametro "-M" 
+		Exemplo: "C:\TOTVS\P12_1_33\Protheus\Bin\SmartClient\smartclient.exe -M"
+	3.10. Na Aba "Compatibilidade" não marque para "Executar como Administrador"
+		* * * ATENCAO * * * 
+		Não executar como Administrador
+
+	3.11. Crie o atalho para o executável "DBAccess64.exe"
+	3.12. Com o mouse em cima do atalho, clique com botão direito e escolha "Propriedades" do Atalho
+	3.13. Mude o nome de "DBAccess64.exe - Atalho" para "DBAccess64 - P12.1.33"
+	3.14. No campo destino acrescente o parametro "-debug" 
+		Exemplo: "C:\TOTVS\P12_1_33\Protheus\Bin\AppServer64\appserver.exe -console"
+	3.15. Na Aba "Compatibilidade" marque para "Executar como Administrador"
+
+	3.16. Crie o atalho para o executável "AppServer.exe" do License Server
+	3.17. Com o mouse em cima do atalho, clique com botão direito e escolha "Propriedades" do Atalho
+	3.18. Mude o nome de "AppServer.exe - Atalho" para "License Server - LOCAL - 12.1.33"
+	3.19. No campo destino acrescente o parametro "-console" 
+		Exemplo: "C:\TOTVS\P12_1_33\TOTVSLicenseVirtual\bin\appserver -console"
+	3.20. Na Aba "Compatibilidade" marque para "Executar como Administrador"
+
+4- Crie no DESKTOP uma pasta chamada "P12.1.33"
+
+5- Copie os atalhos criados no item 3 para esta pasta "P12.1.33" no DESKTOP
+
+6- Crie o Banco de Dados:
+	Abrir o "SQL MANAGEMENT"
+	Posicionar em bancos de dados e criar um novo banco de dados chamado "P12.1.33"
+
+7- Crie a conexão ODBC ( 64 bits ):
+
+** Atenção nesta parte, não crie ODBC 32 bits ***
+
+	No pesquisar do Windows digitar ODBC e escolher ( 64 bits )
+		DNS de Sistema
+		Botão Adicionar
+		SQL Server Native Client 11.0
+		Concluir
+		Nome: P12.1.33
+		Descrição: P12.1.33
+		Servidor: Pegar a Estância no SQL Manager ( Exemplo: VAIO\PROTHEUS )
+		Botão: Avancar
+		Escolher: Autenticação SQL
+		ID de Logon: sa
+		Senha: Senha@2022
+		Alterar banco de dados para : P12.1.33
+		Avançar
+		Concluir
+		Testar Fontes de Dados
+		Deve aparecer a mensagem: TESTES CONCLUÍDOS COM ÊXITO!
+		Concluir o botão OK
+		
+8- Vincule a ODBC ( 64 bits ) no DbAccess64
+	8.1. Executar o "DbAccess64.exe -debug"
+	8.2. Seguir a propriedade do DbAccess64 até a pasta "C:\TOTVS\DbAccess64"
+	8.3. Executar dbmonitor.exe
+	8.4. Confirmar configurações com botão "Ok":
+		Servidor: localhost
+		Porta...: 7890
+	8.5. Clique na Aba "Configurações"
+		Escolha "Microsoft SQL"
+		Botão "Novo"
+		No nome : "P12.1.33"
+		Clique no botão "Salvar"
+		Escolha o ambiente: "P12.1.33"
+			Usuario: sa         (usuario criado no SQL)
+			Senha..: Senha@2022 (Senha atribuida ao usuario SQL)
+	8.6. Clique na Aba Assistentes e siga as opções:
+		Validação de Conexão
+			Clique no botão "Avançar"
+		Escolher "Microsoft SQL"
+			Clique no botão "Avançar"
+		Entre com o nome do ambiente a ser testado: "P12.1.33"
+			Clique no botão Finalizar
+			O resultado deve ser "Conexão Ok!"
+		
+9. Mude os conteudos dos inicializados do sistema (Arquivos ini)
+	9.1 Abrir o AppServer.ini e garatir que algumas tags estejam com o conteudo a seguir:
+		TAG [AMBIENTE] para [LOCAL]
+		TAG SourcePath para "C:\TOTVS\P12_1_33\Protheus\APO"
+		TAG RootPath   para "C:\TOTVS\P12_1_33\Protheus_Data"
+		TAG StartPath  para "\SYSTEM\"
+		TAG [DBAccess] para acesso ao banco de dados criado no ODBC64:
+			DataBase=MSSQL
+			Server=localhost
+			ALIAS=P12.1.33
+			PROTHEUSONLY=0
+			Port=7890
+		TAG [PORT]     para a porta 2022:
+			Port=2022
+
+	9.2 Abrir o SmartClient.ini
+		Mudar as TAGS do SmartCliente.INI
+			[config]
+			lastmainprog=SIGAMDI
+			envserver=LOCAL
+
+			[Drivers]
+			active=LOCAL
+
+			[LOCAL]
+			server=localhost
+			port=2022
+
+10- Suba os serviços do PROTHEUS:
+	10.1 - Serviço DBAccess64     ( clique no atalho "DbAccess64 - 12.1.33" )
+	10.2 - Serviço License Server ( clique no atalho "License Server - LOCAL - 12.1.33" )
+	10.3 - Serviço AppServer      ( clique no atalho "AppServer - 12.1.33" )
+
+11. Abrir e salvar o arquivo "Passo 2 - AMBIENTE DE TREINAMENTO - Como Criar atalho" na pasta chamada "P12_1_33" na area de trabalho.
+		*** Atenção ***
+		Renomei este arquivo para o nome "passo-a-passo.txt" para usá-lo futuramente como referência 
+		Leia esse arquivo sempre que precisar lembrar os passos para utilizar o sistema PROTHEUS
+		***************
+
+.FIM
+
+
+

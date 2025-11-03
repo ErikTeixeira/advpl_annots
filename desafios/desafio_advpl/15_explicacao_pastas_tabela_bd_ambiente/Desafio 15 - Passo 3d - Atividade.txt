@@ -1,0 +1,16 @@
+Montar ambiente Protheus
+==========================
+
+Atividade: Montar o ambiente 12.1.33
+Objetivo.: - Demonstrar entendimento do ambiente
+Meta.....: - Deixar o ambiente 12.1.33 funcional
+
+Utilizando o arquivo na versão 12.1.33:
+- Baixe o arquivo "\Etios - Protheus (3) - Versões\Sistema P12_HP_1.033.zip" do GOOGLE DRIVE;
+- Descompacte o arquivo;
+- Monte o ambiente seguindo a estrutura do arquivo   "Passo 1 - AMBIENTE DE TREINAMENTO - Como Montar.txt";
+- Crie os atalhos seguindo a estrutura do arquivo    "Passo 2 - AMBIENTE DE TREINAMENTO - Como Criar atalho.txt";
+- Demonstre em video seguindo a estrutura do arquivo "Passo 3 - AMBIENTE DE TREINAMENTO - Como Executar".
+
+
+.Fim

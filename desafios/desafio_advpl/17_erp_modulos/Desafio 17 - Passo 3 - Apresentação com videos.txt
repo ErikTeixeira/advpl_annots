@@ -1,0 +1,12 @@
+Avaliação sobre "Módulos do Protheus":
+======================================
+
+O ERP TOTVS Protheus conta com mais de 80 módulos para facilitar e aumentar a sua capacidade de gerenciamento do seu negócio de forma integrada.
+
+As rotinas são agrupadas por módulos e acessadas pelo respectivo menu, afim de dar acesso apenas aos usuarios do departamento.
+
+Com base nos links a seguir, responda a funcionalidade de cada módulo:
+Link: https://blog.compila.com.br/modulos-do-protheus/
+Link: https://tdn.totvs.com/display/public/PROT/Protheus++12
+
+.Fim
